@@ -22,18 +22,18 @@ const Recherche = () => {
 
       <CardContent className="grid-cols-8 justify-center items-center p-4">
         <Card className="flex justify-center items-center w-full overflow-y-auto custom-scrollbar">
-          <div className="w-52 h-24 p-4 text-4xl bg-secondary text-center font-bold mr-2 border-b-[6px] border-white  text-white" >#</div>
-          <div className="w-full h-24 p-4 text-4xl bg-secondary text-center font-bold border-b-[6px] border-white text-white">Axe </div>
+          <div className="w-52 h-20 p-4 text-2xl bg-secondary flex items-center justify-center text-center font-bold mr-2 border-b-[6px] border-white  text-white" >#</div>
+          <div className="w-full h-20 p-4 text-2xl bg-secondary flex items-center justify-center text-center font-bold border-b-[6px] border-white text-white">Axe </div>
         </Card>
        {axes.map((axe) => (
           <Card
             key={axe.id}
             className="flex justify-center items-center w-full overflow-y-auto custom-scrollbar"
           >
-            <div className="w-52 h-24 p-4 text-4xl bg-transparent text-center font-bold mr-2 text-secondary-foreground">
+            <div className="w-52 h-24 p-4 text-xl bg-transparent flex items-center justify-center text-center font-bold mr-2 text-secondary-foreground">
               {axe.id}
             </div>
-            <div className="w-full h-24 p-4 text-4xl bg-transparent font-bold text-secondary-foreground">
+            <div className="w-full h-24 p-4 text-xl bg-transparent flex items-center justify-start font-bold text-secondary-foreground">
               {axe["Axes de recherche"]}
             </div>
           </Card>

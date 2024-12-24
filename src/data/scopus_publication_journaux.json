@@ -1,0 +1,2630 @@
+[
+  {
+    "Authors": "Haddioui M.; Qaraai Y.; Bouarafa S.; Agoujil S.; Bouhamidi A.",
+    "Title": "A macroscopic traffic flow modelling and collision avoidance using B-spline and Physics-Informed Neural Network approaches",
+    "Year": 2024,
+    "Source title": "International Journal of Intelligent Networks"
+  },
+  {
+    "Authors": "Abbad Z.; Maliani A.D.E.; Hassouni M.E.; Abbassi M.T.K.; Bombrun L.; Berthoumieu Y.",
+    "Title": "Riemannian Generalized Gaussian Distributions on the Space of SPD Matrices for Image Classification",
+    "Year": 2024,
+    "Source title": "IEEE Access"
+  },
+  {
+    "Authors": "Belmajdoub H.; Minaoui K.; El Aouni A.; El Abidi Z.",
+    "Title": "Monitoring upwelling regions in major coastal zones using deep learning and sea surface temperature images",
+    "Year": 2024,
+    "Source title": "International Journal of Remote Sensing"
+  },
+  {
+    "Authors": "Bendahman N.; Lotfi D.",
+    "Title": "Unveiling Influence in Networks: A Novel Centrality Metric and Comparative Analysis through Graph-Based Models",
+    "Year": 2024,
+    "Source title": "Entropy"
+  },
+  {
+    "Authors": "Anas E.M.; Mohamed K.; Said B.; Mourad N.; Chaimae S.; Boutaina L.; Abderrahman N.; Essediya C.; Taha B.; Chaimae R.",
+    "Title": "Traditional knowledge and biodiversity of medicinal plants in the Taounate region for treating human diseases: An ethnobotanical perspective",
+    "Year": 2024,
+    "Source title": "Ethnobotany Research and Applications"
+  },
+  {
+    "Authors": "M’hamedi M.; Merzoug M.; Hadjila M.; Bekkouche A.",
+    "Title": "Enhancing melanoma skin cancer classification through data augmentation",
+    "Year": 2024,
+    "Source title": "Telkomnika (Telecommunication Computing Electronics and Control)"
+  },
+  {
+    "Authors": "Belinga A.G.; Tekouabou Koumetio C.S.; El Haziti M.; El Hassouni M.",
+    "Title": "Knowledge Distillation in Image Classification: The Impact of Datasets",
+    "Year": 2024,
+    "Source title": "Computers"
+  },
+  {
+    "Authors": "Ibeniaich M.; Elansary M.; Minaoui K.; Mouhib Y.; Haj Y.A.E.; Belaiche Y.; Oulhakem O.; Iffer E.; Ferdi C.A.; Lemine O.M.; Salameh B.; Alsmadi A.M.; Alaoui K.B.",
+    "Title": "Exploring the effect of Hf (IV) doping in spinel ferrite CoHfxFe2-xO4 on magnetic properties, electrochemical impedance, and photocatalytic activity: In-depth structural study",
+    "Year": 2024,
+    "Source title": "Journal of Molecular Structure"
+  },
+  {
+    "Authors": "Rami Y.; Abidli Z.; Hassan B.; Laanaya H.; Badaoui B.",
+    "Title": "Exploring Immediate Memory and Its Influencing Factors Among Young Arabic Readers: Insights from Letter and Symbol Recall Performance",
+    "Year": 2024,
+    "Source title": "Bangladesh Journal of Medical Science"
+  },
+  {
+    "Authors": "Koudad Z.; Merzoug M.; Benamar A.",
+    "Title": "An agent with a sense of direction for option discovery in hierarchical reinforcement learning",
+    "Year": 2024,
+    "Source title": "International Journal of Modeling, Simulation, and Scientific Computing"
+  },
+  {
+    "Authors": "Laasri N.; Lotfi D.; El Maliani A.D.",
+    "Title": "A targeted vaccination strategy based on dynamic community detection for epidemic networks",
+    "Year": 2024,
+    "Source title": "Social Network Analysis and Mining"
+  },
+  {
+    "Authors": "Balafrej T.; Skalli S.; Benaich S.; Bessi A.; Mekkaoui A.E.; Boukour B.; Mehdad S.; Zaid Y.; Benlakhdar S.; Rais S.; Rais C.; Hassikou R.",
+    "Title": "An ethnobotanical survey on the therapeutic use of Cannabis sativa L. in the province of Taounate, Morocco",
+    "Year": 2024,
+    "Source title": "Ethnobotany Research and Applications"
+  },
+  {
+    "Authors": "Ouadou M.; Mafamane R.; Minaoui K.",
+    "Title": "A Hybrid Anti-Collision Protocol Based on Frequency Division Multiple Access (FDMA) and Time Division Multiple Access (TDMA) for Radio Frequency Identification (RFID) Readers",
+    "Year": 2024,
+    "Source title": "Network"
+  },
+  {
+    "Authors": "Hanae B.; Younes E.B.; Khalid M.; Khalid D.",
+    "Title": "Advanced Deep Learning Approach for Accurate Upwelling Detection Along Morocco's Atlantic Coast Using SST Imagery",
+    "Year": 2024,
+    "Source title": "IEEE Geoscience and Remote Sensing Letters"
+  },
+  {
+    "Authors": "El Abidi Z.; Minaoui K.; Benazzouz A.; Chehri A.; Saadane R.; Jakimi A.",
+    "Title": "Satellite-Based Analysis of Coastal Upwelling Variability and a Novel Index: Case Studies of the Moroccan Atlantic Coast and the Californian Coast",
+    "Year": 2024,
+    "Source title": "IEEE Transactions on Geoscience and Remote Sensing"
+  },
+  {
+    "Authors": "Radi M.; Benlakhdar S.; Ailli A.; Ayyad F.Z.; Balafrej T.; El Alaoui A.E.B.; Hadi N.; Khamar H.; Asserraji R.; El Imache A.; Zair T.",
+    "Title": "Ethnobotanical study of medicinal plants with therapeutic interest in the province of Khemisset, Morocco",
+    "Year": 2024,
+    "Source title": "Ethnobotany Research and Applications"
+  },
+  {
+    "Authors": "Bekkouche A.; Merzoug M.; Hadjila M.; Ferhi W.",
+    "Title": "Towards Early Breast Cancer Detection: A Deep Learning Approach",
+    "Year": 2024,
+    "Source title": "Engineering, Technology and Applied Science Research"
+  },
+  {
+    "Authors": "Snoussi M.; Tamim A.; Fellah S.E.; Koutti L.",
+    "Title": "Spatiotemporal Prediction of Monthly Coastal Upwelling Scenario in SST Fields Using Deep-Learning-Based Models",
+    "Year": 2024,
+    "Source title": "IEEE Geoscience and Remote Sensing Letters"
+  },
+  {
+    "Authors": "Lafhel M.; Cherifi H.; Renoust B.; El Hassouni M.",
+    "Title": "Comparison of Graph Distance Measures for Movie Similarity Using a Multilayer Network Model",
+    "Year": 2024,
+    "Source title": "Entropy"
+  },
+  {
+    "Authors": "Laazoufi A.; El Hassouni M.; Cherifi H.",
+    "Title": "Point Cloud Quality Assessment Using a One-Dimensional Model Based on the Convolutional Neural Network",
+    "Year": 2024,
+    "Source title": "Journal of Imaging"
+  },
+  {
+    "Authors": "Bouzid H.; Ballihi L.",
+    "Title": "SpATr: MoCap 3D human action recognition based on spiral auto-encoder and transformer network",
+    "Year": 2024,
+    "Source title": "Computer Vision and Image Understanding"
+  },
+  {
+    "Authors": "Hmaida S.; Cherifi H.; El Hassouni M.",
+    "Title": "A multilevel backbone extraction framework",
+    "Year": 2024,
+    "Source title": "Applied Network Science"
+  },
+  {
+    "Authors": "Ait el haj Y.; Elansary M.; Minaoui K.; Ibeniaich M.; Belaiche Y.; Ferdi C.A.; Oulhakem O.; Mouhib Y.; Iffer E.; Lemine O.M.; Salameh B.; Alsmadi A.M.; Alaoui K.B.",
+    "Title": "Preparation of CoZrxFe2–xO4 magnetic nanoparticles: In-depth investigation of Zr (IV) effect on photocatalytic performance, magnetic and electrochemical properties",
+    "Year": 2024,
+    "Source title": "Materials Today Communications"
+  },
+  {
+    "Authors": "Benlakhdar S.; Rziza M.; Thami R.O.H.",
+    "Title": "In-depth Analysis of von Mises Distribution Models: Theory, Applications, and Future Directions",
+    "Year": 2024,
+    "Source title": "Statistics, Optimization and Information Computing"
+  },
+  {
+    "Authors": "Benfriha S.; Labraoui N.; Bensaid R.; Bany Salameh H.; Saidi H.",
+    "Title": "FUBA: A fuzzy-based unmanned aerial vehicle behaviour analytics for trust management in flying ad-hoc networks",
+    "Year": 2024,
+    "Source title": "IET Networks"
+  },
+  {
+    "Authors": "Qbouche K.; Rhoulami K.",
+    "Title": "Predicting Transport Mode in the Rabat Region: A Machine Learning Approach",
+    "Year": 2024,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Benabdallah F.Z.; Drissi El Maliani A.; Lotfi D.; El Hassouni M.",
+    "Title": "A Convolutional Neural Network-Based Connectivity Enhancement Approach for Autism Spectrum Disorder Detection",
+    "Year": 2023,
+    "Source title": "Journal of Imaging"
+  },
+  {
+    "Authors": "El-Fedany I.; Kiouach D.; Alaoui R.",
+    "Title": "A smart system combining real and predicted data to recommend an optimal electric vehicle charging station",
+    "Year": 2023,
+    "Source title": "Indonesian Journal of Electrical Engineering and Computer Science"
+  },
+  {
+    "Authors": "Belmajdoub H.; Minaoui K.; El Aouni A.; Hilmi K.; Saadane R.; Chehri A.",
+    "Title": "A New Upwelling Index for the Moroccan Atlantic Coast for the Period between 1982–2021",
+    "Year": 2023,
+    "Source title": "Remote Sensing"
+  },
+  {
+    "Authors": "Meddad M.; Moujahdi C.; Mikram M.; Rziza M.",
+    "Title": "Convolutional Siamese neural network for few-shot multi-view face identification",
+    "Year": 2023,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Gueddoudj E.Y.; Chikh A.; Attia A.",
+    "Title": "Os-ETL: A High-Efficiency, Open-Scala Solution for Integrating Heterogeneous Data in Large-Scale Data Warehousing",
+    "Year": 2023,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Zaimi I.; Boushaba A.; Oumsis M.; Jabir B.; Aabidi M.H.; EL Makrani A.",
+    "Title": "Novel Optimized Strategy Based on Multi-Next-Hops Election to Reduce Video Transmission Delay for GPSR Protocol over VANETs",
+    "Year": 2023,
+    "Source title": "Computers"
+  },
+  {
+    "Authors": "Bekali Y.K.; Zugari A.; El Bhiri B.; Ennasar M.A.; Elmajid H.; Khalladi M.; Elghandour A.",
+    "Title": "A New Design for a Novel Compact Frequency Reconfigurable Antenna",
+    "Year": 2023,
+    "Source title": "International Journal of Microwave and Optical Technology"
+  },
+  {
+    "Authors": "Snoussi M.; Tamim A.; El Fellah S.; El Ansari M.",
+    "Title": "Deep residual U-Net for automatic detection of Moroccan coastal upwelling using SST images",
+    "Year": 2023,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Belmajdoub H.; El Aouni A.; Minaoui K.",
+    "Title": "Convolutional neural networks for coastal upwelling monitoring along the Atlantic Coast of Morocco",
+    "Year": 2023,
+    "Source title": "Remote Sensing Letters"
+  },
+  {
+    "Authors": "Yousfi H.; Mesmoudi A.; Hadjali A.; Matallah H.; Benkabou S.-E.",
+    "Title": "SRDF QDAG: An Efficient End-to-End RDF Data Management when Graph Exploration Meets Spatial Processing",
+    "Year": 2023,
+    "Source title": "Computer Science and Information Systems"
+  },
+  {
+    "Authors": "Mbilong P.M.; Aarab Z.; Belouadha F.-Z.; Kabbaj M.I.",
+    "Title": "Enhancing Fault Detection in CNC Machinery: A Deep Learning and Genetic Algorithm Approach",
+    "Year": 2023,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Ibadah N.; Rziza M.; Minaoui K.; Oumsis M.; Benavente-Peces C.",
+    "Title": "Flexible synthetic mobility modeling to discover trajectories for complex areas of mobile wireless networks",
+    "Year": 2023,
+    "Source title": "Journal of Ambient Intelligence and Humanized Computing"
+  },
+  {
+    "Authors": "Ayoub J.; Lotfi D.; Hammouch A.",
+    "Title": "Link prediction using betweenness centrality and graph neural networks",
+    "Year": 2023,
+    "Source title": "Social Network Analysis and Mining"
+  },
+  {
+    "Authors": "Frédéric D.L.; Rouijel A.; Iyad L.-C.; Elghazi H.",
+    "Title": "An iterative thresholding-based algorithm for brain–computer interface (BCI) application",
+    "Year": 2023,
+    "Source title": "Scientific African"
+  },
+  {
+    "Authors": "Abouzid I.; Saidi R.",
+    "Title": "Digital twin implementation approach in supply chain processes",
+    "Year": 2023,
+    "Source title": "Scientific African"
+  },
+  {
+    "Authors": "Elkaimbillah Z.; El Asri B.; Mikram M.; Rhanoui M.",
+    "Title": "Construction of an Ontology-based Document Collection for the IT Job Offer in Morocco",
+    "Year": 2023,
+    "Source title": "International Journal of Advanced Computer Science and Applications"
+  },
+  {
+    "Authors": "Bouzeboudja O.; Haddad B.; Taleb-Ahmed A.; Ameur S.; El Hassouni M.; Rachid Jennane",
+    "Title": "Multifractal analysis for improved osteoporosis classification",
+    "Year": 2023,
+    "Source title": "Biomedical Signal Processing and Control"
+  },
+  {
+    "Authors": "Al Saidi I.; Rziza M.; Debayle J.",
+    "Title": "Completed homogeneous LBP for remote sensing image classification",
+    "Year": 2023,
+    "Source title": "International Journal of Remote Sensing"
+  },
+  {
+    "Authors": "Amghar S.; Cherdal S.; Mouline S.",
+    "Title": "A Schema Integration Approach for Big Data Analysis",
+    "Year": 2023,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Sabri M.; El Hassouni M.",
+    "Title": "Photovoltaic power forecasting with a long short-term memory autoencoder networks",
+    "Year": 2023,
+    "Source title": "Soft Computing"
+  },
+  {
+    "Authors": "Lisser I.; Belaiche M.; Elansary M.; Mouhib Y.; Ahmani Ferdi C.; Lemine O.M.; Minaoui K.; Tabyaoui M.; Salameh B.; Alsmadi A.M.",
+    "Title": "Characterization of Gd-Sm-Y doped barium hexaferrite synthesized by Sol-Gel auto-combustion: Structural, magnetic and DFT investigation",
+    "Year": 2023,
+    "Source title": "Chemical Physics Letters"
+  },
+  {
+    "Authors": "Sabri M.; El Hassouni M.",
+    "Title": "Predicting photovoltaic power generation using double-layer bidirectional long short-term memory-convolutional network",
+    "Year": 2023,
+    "Source title": "International Journal of Energy and Environmental Engineering"
+  },
+  {
+    "Authors": "Samir B.; Ayoub J.; Ahmed H.",
+    "Title": "Accurate Link Prediction Metric Based on Node Centrality and LSBC",
+    "Year": 2023,
+    "Source title": "International Journal of Engineering Trends and Technology"
+  },
+  {
+    "Authors": "Lamghari Z.; Saidi R.; Radgui M.; Rahmani M.D.",
+    "Title": "Mining Self-Defined Business Process in Electronic Administration",
+    "Year": 2022,
+    "Source title": "International Journal of E-Services and Mobile Applications"
+  },
+  {
+    "Authors": "Lamghari Z.",
+    "Title": "Process Mining: Basic Definitions and Concepts",
+    "Year": 2022,
+    "Source title": "International Journal of Systematic Innovation"
+  },
+  {
+    "Authors": "Belaiche Y.; Minaoui K.; Ouadou M.; Mouhib Y.; Elansary M.",
+    "Title": "Elaboration and Experimental Investigation of Zn-Ni-Co Spinel Ferrite Multi-doped Rare-Earth (Gd, Er, and Sm) Prepared by Coprecipitation Method",
+    "Year": 2022,
+    "Source title": "Journal of Superconductivity and Novel Magnetism"
+  },
+  {
+    "Authors": "Sabri N.M.; El Hassouni M.",
+    "Title": "Accurate photovoltaic power prediction models based on deep convolutional neural networks and gated recurrent units",
+    "Year": 2022,
+    "Source title": "Energy Sources, Part A: Recovery, Utilization and Environmental Effects"
+  },
+  {
+    "Authors": "Mafamane R.; Ouadou M.; Sahbani H.; Ibadah N.; Minaoui K.",
+    "Title": "DMLAR: Distributed Machine Learning‐Based Anti‐Collision Algorithm for RFID Readers in the Internet of Things",
+    "Year": 2022,
+    "Source title": "Computers"
+  },
+  {
+    "Authors": "Lamghari Z.",
+    "Title": "Unstructured Business Processes Improvement using Process Mining Techniques",
+    "Year": 2022,
+    "Source title": "ASM Science Journal"
+  },
+  {
+    "Authors": "Benlakhdar S.; Rziza M.; Thami R.O.H.",
+    "Title": "Statistical modeling of directional data using a robust hierarchical von mises distribution model: perspectives for wind energy",
+    "Year": 2022,
+    "Source title": "Computational Statistics"
+  },
+  {
+    "Authors": "Ayoub J.; Lotfi D.; Hammouch A.",
+    "Title": "Mean Received Resources Meet Machine Learning Algorithms to Improve Link Prediction Methods",
+    "Year": 2022,
+    "Source title": "Information (Switzerland)"
+  },
+  {
+    "Authors": "Said I.; Abderrazak I.; Abdellah Y.; Mostafa B.",
+    "Title": "ADAPTIVE FINITE STATE AUTOMATA APPLIED TO MORPHOLOGICAL ANALYSIS OF ARABIC WORDS",
+    "Year": 2022,
+    "Source title": "ARPN Journal of Engineering and Applied Sciences"
+  },
+  {
+    "Authors": "Otberdout N.; Daoudi M.; Kacem A.; Ballihi L.; Berretti S.",
+    "Title": "Dynamic Facial Expression Generation on Hilbert Hypersphere with Conditional Wasserstein Generative Adversarial Nets",
+    "Year": 2022,
+    "Source title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  },
+  {
+    "Authors": "Lamghari Z.",
+    "Title": "TM4BPPMN: Recasting BPMN to Low-Level of Abstraction",
+    "Year": 2022,
+    "Source title": "ASM Science Journal"
+  },
+  {
+    "Authors": "El Abidi Z.; Minaoui K.",
+    "Title": "An improved fusion method for detecting upwelling off the coast of northwest Africa from chlorophyll-a and sea surface temperature satellite images",
+    "Year": 2022,
+    "Source title": "Remote Sensing Letters"
+  },
+  {
+    "Authors": "Rhanoui M.; Mikram M.; Yousfi S.; Kasmi A.; Zoubeidi N.",
+    "Title": "A hybrid recommender system for patron driven library acquisition and weeding",
+    "Year": 2022,
+    "Source title": "Journal of King Saud University - Computer and Information Sciences"
+  },
+  {
+    "Authors": "Zeyneb Yasmina R.; Fethallah H.; Fadoua L.",
+    "Title": "Web service selection and composition based on uncertain quality of service",
+    "Year": 2022,
+    "Source title": "Concurrency and Computation: Practice and Experience"
+  },
+  {
+    "Authors": "Benabdallah F.Z.; Drissi El Maliani A.; Lotfi D.; Jennane R.; El Hassouni M.",
+    "Title": "An autism spectrum disorder adaptive identification based on the Elimination of brain connections: a proof of long-range underconnectivity",
+    "Year": 2022,
+    "Source title": "Soft Computing"
+  },
+  {
+    "Authors": "Qbouche K.; Rhoulami K.",
+    "Title": "Simulation Daily Mobility in Rabat Region Using Multi-Agent Systems Models",
+    "Year": 2022,
+    "Source title": "Journal of ICT Standardization"
+  },
+  {
+    "Authors": "Nazih M.; Minaoui K.; Sobhani E.; Comon P.",
+    "Title": "Computation of the nonnegative canonical tensor decomposition with two accelerated proximal gradient algorithms",
+    "Year": 2022,
+    "Source title": "Digital Signal Processing: A Review Journal"
+  },
+  {
+    "Authors": "Asmi K.; Lotfi D.; Abarda A.",
+    "Title": "The greedy coupled-seeds expansion method for the overlapping community detection in social networks",
+    "Year": 2022,
+    "Source title": "Computing"
+  },
+  {
+    "Authors": "Al Saidi I.; Rziza M.; Debayle J.",
+    "Title": "A New LBP Variant: Corner Rhombus Shape LBP (CRSLBP)",
+    "Year": 2022,
+    "Source title": "Journal of Imaging"
+  },
+  {
+    "Authors": "Laghridat C.; Essalih M.; Mounir I.",
+    "Title": "ANALYSIS OF PARTICULAR COMPLEX NETWORKS USING TOPOLOGICAL INDICES",
+    "Year": 2022,
+    "Source title": "International Journal on Technical and Physical Problems of Engineering"
+  },
+  {
+    "Authors": "Lahmidi A.; Minaoui K.; Moujahdi C.; Rziza M.",
+    "Title": "Fingerprint Template Protection Using Irreversible Minutiae Tetrahedrons",
+    "Year": 2022,
+    "Source title": "Computer Journal"
+  },
+  {
+    "Authors": "Lamghari Z.; Saidi R.; Radgui M.; Rahmani M.D.",
+    "Title": "Chaotic activities recognising during the pre-processing event data phase",
+    "Year": 2022,
+    "Source title": "International Journal of Business Intelligence and Data Mining"
+  },
+  {
+    "Authors": "Nassima Z.; Zineb L.",
+    "Title": "Towards the development of a recommender system for product delivery using graph databases and related algorithms",
+    "Year": 2022,
+    "Source title": "International Journal of Systematic Innovation"
+  },
+  {
+    "Authors": "Srifi M.; Oussous A.; Ait Lahcen A.; Mouline S.",
+    "Title": "A novel deep learning-based recommender system for Arabic content",
+    "Year": 2022,
+    "Source title": "Journal of Intelligent and Fuzzy Systems"
+  },
+  {
+    "Authors": "Sekmoudi I.; Idrissi L.; Khomsi K.; Faieq S.; El Jarmouni M.; Tanarhte M.",
+    "Title": "COVID-19 lockdown improves air quality in Morocco",
+    "Year": 2022,
+    "Source title": "Environmental Engineering Research"
+  },
+  {
+    "Authors": "El Mettiti A.; Oumsis M.",
+    "Title": "A Survey on 6G Networks: Vision, Requirements, Architecture, Technologies and Challenges",
+    "Year": 2022,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Abouzid I.; Bekali Y.K.; Saidi R.",
+    "Title": "Modelling IoT Behaviour in Supply Chain Business Processes with BPMN: A Systematic Literature Review",
+    "Year": 2022,
+    "Source title": "Journal of ICT Standardization"
+  },
+  {
+    "Authors": "El Mettiti A.; Oumsis M.",
+    "Title": "A Stacked Autoencoder and Multilayer Perceptrons for mmWave Beamforming Prediction",
+    "Year": 2022,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Lamghari Z.",
+    "Title": "Process Mining: A New Approach for Simplifying the Process Model Control Flow Visualization",
+    "Year": 2022,
+    "Source title": "Transdisciplinary Journal of Engineering and Science"
+  },
+  {
+    "Authors": "Abbad Z.; Maliani A.D.E.; Alaoui S.O.E.; Hassouni M.E.; Abbassi M.T.K.",
+    "Title": "The Geodesic Distance on the Generalized Gamma Manifold for Texture Image Retrieval",
+    "Year": 2022,
+    "Source title": "Journal of Mathematical Imaging and Vision"
+  },
+  {
+    "Authors": "Lahmidi A.; Moujahdi C.; Minaoui K.; Rziza M.",
+    "Title": "On the methodology of fingerprint template protection schemes conception : meditations on the reliability",
+    "Year": 2022,
+    "Source title": "Eurasip Journal on Information Security"
+  },
+  {
+    "Authors": "Amghar S.; Cherdal S.; Mouline S.",
+    "Title": "Storing, preprocessing and analyzing tweets: finding the suitable noSQL system",
+    "Year": 2022,
+    "Source title": "International Journal of Computers and Applications"
+  },
+  {
+    "Authors": "El Biach F.Z.; Iala I.; Laanaya H.; Minaoui K.",
+    "Title": "Encoder-decoder based convolutional neural networks for image forgery detection",
+    "Year": 2022,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "El Biach F.Z.; Iala I.; Laanaya H.; Minaoui K.",
+    "Title": "CovSeg-Unet: End-to-End Method-based Computer-Aided Decision Support System in Lung COVID-19 Detection on CT Images",
+    "Year": 2022,
+    "Source title": "International Journal of Advanced Computer Science and Applications"
+  },
+  {
+    "Authors": "Lamghari Z.",
+    "Title": "Process Mining: Auditing Approach Based on Process Discovery Using Frequency Paths Concept",
+    "Year": 2022,
+    "Source title": "ASM Science Journal"
+  },
+  {
+    "Authors": "Bouzid H.; Ballihi L.",
+    "Title": "Facial expression video generation based-on spatio-temporal convolutional GAN: FEV-GAN",
+    "Year": 2022,
+    "Source title": "Intelligent Systems with Applications"
+  },
+  {
+    "Authors": "Yasmina R.Z.; Fethallah H.",
+    "Title": "Uncertain service selection using hesitant fuzzy sets and grey wolf optimisation",
+    "Year": 2022,
+    "Source title": "International Journal of Web Engineering and Technology"
+  },
+  {
+    "Authors": "El Krari M.; Ahiod B.; El Benani Y.B.",
+    "Title": "A pre-processing reduction method for the generalized travelling salesman problem",
+    "Year": 2021,
+    "Source title": "Operational Research"
+  },
+  {
+    "Authors": "Srifi M.; Oussous A.; Ait Lahcen A.; Mouline S.",
+    "Title": "Evaluation of recent advances in recommender systems on Arabic content",
+    "Year": 2021,
+    "Source title": "Journal of Big Data"
+  },
+  {
+    "Authors": "El Midaoui O.; El Ghali B.; El Qadi A.; Driss R.M.",
+    "Title": "Geographical queries reformulation using a parallel association rules generator to build spatial taxonomies",
+    "Year": 2021,
+    "Source title": "International Journal of Electrical and Computer Engineering"
+  },
+  {
+    "Authors": "Rouijel A.; Hadmi A.; Ghazi H.E.; Mohammadi Z.",
+    "Title": "Tensor-based approach for blind separation of interleave-NOMA 5G system",
+    "Year": 2021,
+    "Source title": "Scientific African"
+  },
+  {
+    "Authors": "Nazih M.; Minaoui K.; Sobhani E.; Comon P.",
+    "Title": "Computation of low-rank tensor approximation under existence constraint via a forward-backward algorithm",
+    "Year": 2021,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "El-fedany I.; Kiouach D.; Alaoui R.",
+    "Title": "A Smart Coordination System Integrates MCS to Minimize EV Trip Duration and Manage the EV Charging, Mainly at Peak Times",
+    "Year": 2021,
+    "Source title": "International Journal of Intelligent Transportation Systems Research"
+  },
+  {
+    "Authors": "El Abidi Z.; Minaoui K.; El Aouni A.; Tamim A.; Laanaya H.",
+    "Title": "An Efficient Detection of Moroccan Coastal Upwelling Based on Fusion of Chlorophyll-a and Sea Surface Temperature Images with a New Validation Index",
+    "Year": 2021,
+    "Source title": "IEEE Geoscience and Remote Sensing Letters"
+  },
+  {
+    "Authors": "Ben Tamou A.; Benzinou A.; Nasreddine K.",
+    "Title": "Multi-stream fish detection in unconstrained underwater videos by the fusion of two convolutional neural network detectors",
+    "Year": 2021,
+    "Source title": "Applied Intelligence"
+  },
+  {
+    "Authors": "El Yebdri Z.; Benslimane S.M.; Lahfa F.; Barhamgi M.; Benslimane D.",
+    "Title": "Context-aware recommender system using trust network",
+    "Year": 2021,
+    "Source title": "Computing"
+  },
+  {
+    "Authors": "Lazrag H.; Chehri A.; Saadane R.; Rahmani M.D.",
+    "Title": "Efficient and secure routing protocol based on Blockchain approach for wireless sensor networks",
+    "Year": 2021,
+    "Source title": "Concurrency and Computation: Practice and Experience"
+  },
+  {
+    "Authors": "Zhang R.; Aziz S.; Farooq M.U.; Hasan K.N.; Mohammed N.; Ahmad S.; Ibadah N.",
+    "Title": "A wind energy supplier bidding strategy using combined ega-inspired hpsoifa optimizer and deep learning predictor",
+    "Year": 2021,
+    "Source title": "Energies"
+  },
+  {
+    "Authors": "Belaiche Y.; Minaoui K.; Ouadou M.; Elansary M.; Ahmani Ferdi C.",
+    "Title": "New nanosized (Gd3+, Sm3+) co-doped zinc ferrite: Structural, magnetic and first-principles study",
+    "Year": 2021,
+    "Source title": "Physica B: Condensed Matter"
+  },
+  {
+    "Authors": "Mafamane R.; Mansour A.A.; Ouadou M.; Minaoui K.",
+    "Title": "FTSMAC: A multi-channel hybrid reader collision avoidance protocol for RFID network",
+    "Year": 2021,
+    "Source title": "Journal of Sensor and Actuator Networks"
+  },
+  {
+    "Authors": "Farnane K.; Minaoui K.",
+    "Title": "Golay pairs waveform for automotive radar target parameters estimation",
+    "Year": 2021,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Faieq S.; Saidi R.; El Ghazi H.; Front A.; Rahmani M.D.",
+    "Title": "Building adaptive context-aware service-based smart systems",
+    "Year": 2021,
+    "Source title": "Service Oriented Computing and Applications"
+  },
+  {
+    "Authors": "Lamghari Z.; Radgui M.; Saidi R.; Rahmani M.D.",
+    "Title": "An operational support approach for mining unstructured business processes",
+    "Year": 2021,
+    "Source title": "Revista de Informatica Teorica e Aplicada"
+  },
+  {
+    "Authors": "Dbibih I.; Iala I.; Biach F.Z.E.; Zytoune O.",
+    "Title": "An Efficient Algorithm for End-to-End Latency Optimization Over IEEE 802.15.4 Wireless Network for IoT Applications",
+    "Year": 2021,
+    "Source title": "International Journal of Intelligent Engineering and Systems"
+  },
+  {
+    "Authors": "Touijer B.; Ben Maissa Y.; Mouline S.",
+    "Title": "IEEE 802.15.6 CSMA/CA access method for WBANs: Performance evaluation and new backoff counter selection procedure",
+    "Year": 2021,
+    "Source title": "Computer Networks"
+  },
+  {
+    "Authors": "Bousnina N.; Zheng L.; Mikram M.; Ghouzali S.; Minaoui K.",
+    "Title": "Unraveling robustness of deep face anti-spoofing models against pixel attacks",
+    "Year": 2021,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Lahmidi A.; Minaoui K.; Moujahdi C.; Rziza M.",
+    "Title": "A New Protection Scheme for Biometric Templates based on Random Projection and CDMA Principle",
+    "Year": 2021,
+    "Source title": "International Journal of Advanced Computer Science and Applications"
+  },
+  {
+    "Authors": "El Midaoui O.; El Ghali B.; El Qadi A.; Rahmani M.D.",
+    "Title": "Geographical query reformulation using a geographical adjacency taxonomy builder and word senses",
+    "Year": 2021,
+    "Source title": "Journal of Systems and Information Technology"
+  },
+  {
+    "Authors": "Sekmoudi I.; Khomsi K.; Faieq S.; Idrissi L.",
+    "Title": "Assessment of global and regional PM10 CAMSRA data: comparison to observed data in Morocco",
+    "Year": 2021,
+    "Source title": "Environmental Science and Pollution Research"
+  },
+  {
+    "Authors": "Abdellaoui S.E.; Fakhri Y.",
+    "Title": "Power Management Strategies in Energy-Harvesting Wireless Sensor Networks",
+    "Year": 2021,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Lyazidi A.; Mouline S.",
+    "Title": "ONCAR: An ontology-based approach for car automation modelling",
+    "Year": 2021,
+    "Source title": "International Journal of Vehicle Systems Modelling and Testing"
+  },
+  {
+    "Authors": "Harnoune A.; Rhanoui M.; Mikram M.; Yousfi S.; Elkaimbillah Z.; El Asri B.",
+    "Title": "BERT based clinical knowledge extraction for biomedical knowledge graph construction and analysis",
+    "Year": 2021,
+    "Source title": "Computer Methods and Programs in Biomedicine Update"
+  },
+  {
+    "Authors": "Belaiche Y.; Minaoui K.; Ouadou M.; Elansary M.",
+    "Title": "Preparation and study magnetic properties of the nanosized ferrite Zn0.5Mn0.5Fe1.95Mo0.02Tb0.01Sm0.01Gd0.01O4 with negative magnetization. A new result",
+    "Year": 2021,
+    "Source title": "Phase Transitions"
+  },
+  {
+    "Authors": "Aouni A.E.; Daoudi K.; Minaoui K.; Yahia H.",
+    "Title": "Robust Detection of the North-West African Upwelling from SST Images",
+    "Year": 2021,
+    "Source title": "IEEE Geoscience and Remote Sensing Letters"
+  },
+  {
+    "Authors": "Iazzi A.; Rziza M.; Haj Thami R.O.",
+    "Title": "Fall detection system-based posture-recognition for indoor environments",
+    "Year": 2021,
+    "Source title": "Journal of Imaging"
+  },
+  {
+    "Authors": "Abarda A.; Dakkon M.; Asmi K.; Bentaleb Y.",
+    "Title": "Evaluating information criteria in latent class analysis: Application to identify classes of breast cancer dataset",
+    "Year": 2021,
+    "Source title": "International Journal of Data Analysis Techniques and Strategies"
+  },
+  {
+    "Authors": "Iazzi S.; Iazzi A.; Laaroussi S.; Yousfi A.",
+    "Title": "The Use of the Relational Concept in the Arabic Morphological Analysis",
+    "Year": 2021,
+    "Source title": "International Journal of Advanced Computer Science and Applications"
+  },
+  {
+    "Authors": "Aarab Z.; El Ghazi A.; El Fellah S.; Lagdali S.; Lafkih M.; Lyazidi A.",
+    "Title": "Covid-19 context-aware WSN approach",
+    "Year": 2021,
+    "Source title": "ARPN Journal of Engineering and Applied Sciences"
+  },
+  {
+    "Authors": "El Abdellaoui S.; Kachbal I.",
+    "Title": "Deep Residual Network for High-Resolution Background Matting",
+    "Year": 2021,
+    "Source title": "Studies in Informatics and Control"
+  },
+  {
+    "Authors": "Smahi M.I.; Hadjila F.; Tibermacine C.; Benamar A.",
+    "Title": "A deep learning approach for collaborative prediction of Web service QoS",
+    "Year": 2021,
+    "Source title": "Service Oriented Computing and Applications"
+  },
+  {
+    "Authors": "Saidi I.A.; Rziza M.; Debayle J.",
+    "Title": "A Novel Texture Descriptor: Circular Parts Local Binary Pattern",
+    "Year": 2021,
+    "Source title": "Image Analysis and Stereology"
+  },
+  {
+    "Authors": "Zineb L.",
+    "Title": "An Integrated Approach for Discovering Process Models According to Business Process Types",
+    "Year": 2021,
+    "Source title": "ASM Science Journal"
+  },
+  {
+    "Authors": "Taybi I.O.; Gadi T.; Alaoui R.",
+    "Title": "2DSlicesNet: A 2D Slice-Based Convolutional Neural Network for 3D Object Retrieval and Classification",
+    "Year": 2021,
+    "Source title": "IEEE Access"
+  },
+  {
+    "Authors": "Abidi B.; Jilbab A.; Mohamed E.H.",
+    "Title": "Wireless body area networks: a comprehensive survey",
+    "Year": 2020,
+    "Source title": "Journal of Medical Engineering and Technology"
+  },
+  {
+    "Authors": "Sifou F.; Alshahwan F.; Marwan M.; Hammoud A.; Hammouch A.",
+    "Title": "Implementing policy rules in attributes based access control with XACML within a cloud-enabled IoT environment",
+    "Year": 2020,
+    "Source title": "Journal of Communications"
+  },
+  {
+    "Authors": "El Krari M.; Ahiod B.; El Benani B.",
+    "Title": "A Memetic Algorithm Based on Breakout Local Search for the Generalized Traveling Salesman Problem",
+    "Year": 2020,
+    "Source title": "Applied Artificial Intelligence"
+  },
+  {
+    "Authors": "Abouelaziz I.; Chetouani A.; El Hassouni M.; Latecki L.J.; Cherifi H.",
+    "Title": "3D visual saliency and convolutional neural network for blind mesh quality assessment",
+    "Year": 2020,
+    "Source title": "Neural Computing and Applications"
+  },
+  {
+    "Authors": "Nazih M.; Minaoui K.; Comon P.",
+    "Title": "Using the proximal gradient and the accelerated proximal gradient as a canonical polyadic tensor decomposition algorithms in difficult situations",
+    "Year": 2020,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "Farnane K.; Minaoui K.",
+    "Title": "Optimization of a new Golay sequences shaping for low sidelobe radar ambiguity function",
+    "Year": 2020,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Anisse K.; Amina R.; Mohamed R.",
+    "Title": "Spherical object tracking using von mises-fisher distribution in catadioptric system",
+    "Year": 2020,
+    "Source title": "Journal of Computer Science"
+  },
+  {
+    "Authors": "Khald A.; Radgui A.; Rziza M.",
+    "Title": "Omni-Zernike Algorithm for Template Matching in Catadioptric System",
+    "Year": 2020,
+    "Source title": "Journal of Computer Science"
+  },
+  {
+    "Authors": "Mokhlissi R.; Lotfi D.; Marraki M.E.; Debnath J.",
+    "Title": "The structural properties and the spanning trees entropy of the generalized Fractal Scale-Free Lattice",
+    "Year": 2020,
+    "Source title": "Journal of Complex Networks"
+  },
+  {
+    "Authors": "Ayoub J.; Lotfi D.; El Marraki M.; Hammouch A.",
+    "Title": "Accurate link prediction method based on path length between a pair of unlinked nodes and their degree",
+    "Year": 2020,
+    "Source title": "Social Network Analysis and Mining"
+  },
+  {
+    "Authors": "Bendaoud F.; Abdennebi M.; Didi F.",
+    "Title": "Mobility Aware Network Selection in a Heterogeneous Wireless Environment",
+    "Year": 2020,
+    "Source title": "Transport and Telecommunication"
+  },
+  {
+    "Authors": "Taybi I.O.; Gadi T.; Alaoui R.",
+    "Title": "A new partial 3D object indexing and retrieval approach combining 2D slices and Apriori Algorithm",
+    "Year": 2020,
+    "Source title": "Scientific Visualization"
+  },
+  {
+    "Authors": "Chennouk H.; El Bhiri B.; Bara S.; Ziyati E.H.",
+    "Title": "The machine learning in project management: A systematic mapping study",
+    "Year": 2020,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Meddad M.; Moujahdi C.; Mikram M.; Rziza M.",
+    "Title": "Optimization of multi-user face identification systems in big data environments",
+    "Year": 2020,
+    "Source title": "Advances in Science, Technology and Engineering Systems"
+  },
+  {
+    "Authors": "Ghalmane Z.; Cherifi C.; Cherifi H.; El Hassouni M.",
+    "Title": "Extracting backbones in weighted modular complex networks",
+    "Year": 2020,
+    "Source title": "Scientific Reports"
+  },
+  {
+    "Authors": "Marwan M.; Ait Temghart A.; Sifou F.; Alshahwan F.",
+    "Title": "A cloud solution for securing medical image storage",
+    "Year": 2020,
+    "Source title": "Journal of Information and Organizational Sciences"
+  },
+  {
+    "Authors": "Otberdout N.; Kacem A.; Daoudi M.; Ballihi L.; Berretti S.",
+    "Title": "Automatic Analysis of Facial Expressions Based on Deep Covariance Trajectories",
+    "Year": 2020,
+    "Source title": "IEEE Transactions on Neural Networks and Learning Systems"
+  },
+  {
+    "Authors": "Bouhassoune I.; Chehri A.; Saadane R.; Minaoui K.",
+    "Title": "Optimization of UHF RFID five-slotted patch tag design using PSO algorithm for biomedical sensing systems",
+    "Year": 2020,
+    "Source title": "International Journal of Environmental Research and Public Health"
+  },
+  {
+    "Authors": "Karroum K.; Sokolov A.; Maissa Y.B.; Haziti M.E.; Delbarre H.",
+    "Title": "Spatial and temporal variabilty impact on air pollution interpolation: A case study on pm10 estimation in northen-France",
+    "Year": 2020,
+    "Source title": "Pollution Research"
+  },
+  {
+    "Authors": "Elhassouni J.; El Qadi A.; El Madani El Alami Y.; El Haziti M.",
+    "Title": "The implementation of credit risk scorecard using ontology design patterns and BCBS 239",
+    "Year": 2020,
+    "Source title": "Cybernetics and Information Technologies"
+  },
+  {
+    "Authors": "Marwan M.; Ait Temghart A.; Sifou F.; AlShahwan F.",
+    "Title": "A decentralized blockchain-based architecture for a secure cloud-enabled IoT",
+    "Year": 2020,
+    "Source title": "Journal of Mobile Multimedia"
+  },
+  {
+    "Authors": "Meddad M.; Moujahdi C.; Mikram M.; Rziza M.",
+    "Title": "A hybrid face identification system using a compressed CNN in a big data environment for embedded devices",
+    "Year": 2020,
+    "Source title": "International Journal of Computing and Digital Systems"
+  },
+  {
+    "Authors": "Touijer B.; Maissa Y.B.; Mouline S.",
+    "Title": "Scalability validation of the posting access method through UPPAAL-SMC model-checker",
+    "Year": 2020,
+    "Source title": "International Journal of Advanced Computer Science and Applications"
+  },
+  {
+    "Authors": "Benlakhdar S.; Rziza M.; Thami R.O.H.",
+    "Title": "A robust model using SIFT and gamma mixture model for texture images classification: Perspectives for medical applications",
+    "Year": 2020,
+    "Source title": "Biomedical and Pharmacology Journal"
+  },
+  {
+    "Authors": "Asmi K.; Lotfi D.; El Marraki M.",
+    "Title": "Overlapping community detection based on the union of all maximum spanning trees",
+    "Year": 2020,
+    "Source title": "Library Hi Tech"
+  },
+  {
+    "Authors": "El Aouni A.; Garcon V.; Sudre J.; Yahia H.; Daoudi K.; Minaoui K.",
+    "Title": "Physical and Biological Satellite Observations of the Northwest African Upwelling: Spatial Extent and Dynamics",
+    "Year": 2020,
+    "Source title": "IEEE Transactions on Geoscience and Remote Sensing"
+  },
+  {
+    "Authors": "Nasser Y.; Jennane R.; Chetouani A.; Lespessailles E.; Hassouni M.E.",
+    "Title": "Discriminative Regularized Auto-Encoder for Early Detection of Knee OsteoArthritis: Data from the Osteoarthritis Initiative",
+    "Year": 2020,
+    "Source title": "IEEE Transactions on Medical Imaging"
+  },
+  {
+    "Authors": "Farnane K.; Minaoui K.",
+    "Title": "Sidelobe improvement of Golay set sequences by using SA for radar applications",
+    "Year": 2020,
+    "Source title": "Electronics Letters"
+  },
+  {
+    "Authors": "Assaouy M.; Zytoune O.; Ouadou M.",
+    "Title": "Battery Recovery-Aware Optimization for Embedded System Communications",
+    "Year": 2020,
+    "Source title": "Wireless Personal Communications"
+  },
+  {
+    "Authors": "Hadjila F.; Belabed A.; Merzoug M.",
+    "Title": "Efficient web service selection with uncertain QoS",
+    "Year": 2020,
+    "Source title": "International Journal of Computational Science and Engineering"
+  },
+  {
+    "Authors": "Iazzi A.; Rziza M.; Thami R.O.H.",
+    "Title": "Efficient fall activity recognition by combining shape and motion features",
+    "Year": 2020,
+    "Source title": "Computational Visual Media"
+  },
+  {
+    "Authors": "El Aouni A.; Daoudi K.; Yahia H.; Maji S.K.; Minaoui K.",
+    "Title": "Defining Lagrangian coherent vortices from their trajectories",
+    "Year": 2020,
+    "Source title": "Physics of Fluids"
+  },
+  {
+    "Authors": "Ghalmane Z.; Cherifi C.; Cherifi H.; Hassouni M.E.",
+    "Title": "Exploring Hubs and Overlapping Nodes Interactions in Modular Complex Networks",
+    "Year": 2020,
+    "Source title": "IEEE Access"
+  },
+  {
+    "Authors": "Ait Hammou B.; Ait Lahcen A.; Mouline S.",
+    "Title": "Towards a real-time processing framework based on improved distributed recurrent neural network variants with fastText for social big data analytics",
+    "Year": 2020,
+    "Source title": "Information Processing and Management"
+  },
+  {
+    "Authors": "Benavente-Peces C.; Ibadah N.",
+    "Title": "Buildings energy efficiency analysis and classification using various machine learning technique classifiers",
+    "Year": 2020,
+    "Source title": "Energies"
+  },
+  {
+    "Authors": "Marouane E.M.; Elhoussaine Z.",
+    "Title": "A fuzzy neighborhood rough set method for anomaly detection in large scale data",
+    "Year": 2020,
+    "Source title": "IAES International Journal of Artificial Intelligence"
+  },
+  {
+    "Authors": "Zeglazi O.; Rziza M.; Amine A.; Demonceaux C.",
+    "Title": "Structural similarity measurement based cost function for stereo matching of automotive applications",
+    "Year": 2020,
+    "Source title": "Journal of Imaging"
+  },
+  {
+    "Authors": "Cherrat E.M.; Alaoui R.; Bouzahir H.",
+    "Title": "A multimodal biometric identification system based on cascade advanced of fingerprint, fingervein and face images",
+    "Year": 2020,
+    "Source title": "Indonesian Journal of Electrical Engineering and Computer Science"
+  },
+  {
+    "Authors": "Oussous A.; Benjelloun F.-Z.; Lahcen A.A.; Belfkih S.",
+    "Title": "ASA: A framework for Arabic sentiment analysis",
+    "Year": 2020,
+    "Source title": "Journal of Information Science"
+  },
+  {
+    "Authors": "Marwan M.; Sifou F.; AlShahwan F.; Ait Temghart A.",
+    "Title": "An efficient privacy solution for electronic health records in cloud computing",
+    "Year": 2020,
+    "Source title": "International Journal of High Performance Systems Architecture"
+  },
+  {
+    "Authors": "Mikram M.; Rhanoui M.; Yousfi S.; Briwa H.",
+    "Title": "Unit load devices (Uld) demand forecasting in the air cargo fooptimal cost management",
+    "Year": 2020,
+    "Source title": "Journal of Automation, Mobile Robotics and Intelligent Systems"
+  },
+  {
+    "Authors": "Yousfi S.; Rhanoui M.; Mikram M.",
+    "Title": "Comparative study of cnn and lstm for opinion mining in long text",
+    "Year": 2020,
+    "Source title": "Journal of Automation, Mobile Robotics and Intelligent Systems"
+  },
+  {
+    "Authors": "El-Fedany I.; Kiouach D.; Alaoui R.",
+    "Title": "System architecture to select the charging station by optimizing the travel time considering the destination of electric vehicle drivers in smart cities",
+    "Year": 2020,
+    "Source title": "Bulletin of Electrical Engineering and Informatics"
+  },
+  {
+    "Authors": "Mejdoubi A.; Fouchal H.; Zytoune O.; Ouadou M.",
+    "Title": "Road traffic optimisation based on a learning approach",
+    "Year": 2020,
+    "Source title": "International Journal of Sensor Networks"
+  },
+  {
+    "Authors": "Assaouy M.; Zytoune O.; Ouadou M.",
+    "Title": "Rapid Learning Optimization Approach for Battery Recovery-Aware Embedded System Communications",
+    "Year": 2020,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Ait Hammou B.; Ait Lahcen A.; Mouline S.",
+    "Title": "An effective distributed predictive model with Matrix factorization and random forest for Big Data recommendation systems",
+    "Year": 2019,
+    "Source title": "Expert Systems with Applications"
+  },
+  {
+    "Authors": "Ait Hammou B.; Ait Lahcen A.; Mouline S.",
+    "Title": "A distributed group recommendation system based on extreme gradient boosting and big data technologies",
+    "Year": 2019,
+    "Source title": "Applied Intelligence"
+  },
+  {
+    "Authors": "Khattabi N.E.; Yakoubi F.; Sahbani H.; Marraki M.E.",
+    "Title": "Computing the number of spanning trees in the wheel multiple graph",
+    "Year": 2019,
+    "Source title": "International Journal of Advanced Trends in Computer Science and Engineering"
+  },
+  {
+    "Authors": "Ghalmane Z.; Hassouni M.E.; Cherifi H.",
+    "Title": "Immunization of networks with non-overlapping community structure",
+    "Year": 2019,
+    "Source title": "Social Network Analysis and Mining"
+  },
+  {
+    "Authors": "Mourchid Y.; Renoust B.; Roupin O.; Văn L.; Cherifi H.; Hassouni M.E.",
+    "Title": "Movienet: a movie multilayer network model using visual and textual semantic cues",
+    "Year": 2019,
+    "Source title": "Applied Network Science"
+  },
+  {
+    "Authors": "Rhanoui M.; Mikram M.; Yousfi S.; Barzali S.",
+    "Title": "A CNN-BiLSTM Model for Document-Level Sentiment Analysis",
+    "Year": 2019,
+    "Source title": "Machine Learning and Knowledge Extraction"
+  },
+  {
+    "Authors": "Ait Hammou B.; Ait Lahcen A.; Mouline S.",
+    "Title": "FRAIPA version 2: A fast recommendation approach based on self-adaptation and multi-thresholding",
+    "Year": 2019,
+    "Source title": "Expert Systems with Applications"
+  },
+  {
+    "Authors": "El. Khattabi N.; Yakoubi F.; Marraki M.E.",
+    "Title": "The Reliability of Small World Network",
+    "Year": 2019,
+    "Source title": "ARPN Journal of Engineering and Applied Sciences"
+  },
+  {
+    "Authors": "Abidi B.; Jilbab A.; Mohamed E.H.",
+    "Title": "Wireless body area network for health monitoring",
+    "Year": 2019,
+    "Source title": "Journal of Medical Engineering and Technology"
+  },
+  {
+    "Authors": "Zaimi I.; Boushaba A.; Squalli Houssaini Z.; Oumsis M.",
+    "Title": "A fuzzy geographical routing approach to support real-time multimedia transmission for vehicular ad hoc networks",
+    "Year": 2019,
+    "Source title": "Wireless Networks"
+  },
+  {
+    "Authors": "Samouni N.; Jilbab A.; Hammouch A.",
+    "Title": "A critical review on recent research on reliable communication for wireless body area network",
+    "Year": 2019,
+    "Source title": "International Journal of Sensors, Wireless Communications and Control"
+  },
+  {
+    "Authors": "Tamim A.; Minaoui K.; Daoudi K.; Yahia H.; Atillah A.; El Fellah S.; Aboutajdine D.; El Ansari M.",
+    "Title": "Automatic detection of Moroccan coastal upwelling zones using sea surface temperature images",
+    "Year": 2019,
+    "Source title": "International Journal of Remote Sensing"
+  },
+  {
+    "Authors": "Bengheni A.; Didi F.",
+    "Title": "Evaluating the performance of asynchronous MAC protocols for wireless sensor networks",
+    "Year": 2019,
+    "Source title": "International Journal of Wireless and Mobile Computing"
+  },
+  {
+    "Authors": "Marwan M.; Alshahwan F.; Sifou F.; Kartit A.; Ouahmane H.",
+    "Title": "Improving the security of cloud-based medical image storage",
+    "Year": 2019,
+    "Source title": "Engineering Letters"
+  },
+  {
+    "Authors": "Tafraouti A.; El Hassouni M.; Jennane R.",
+    "Title": "Evaluation of fractional Brownian motion synthesis methods using the SVM classifier",
+    "Year": 2019,
+    "Source title": "Biomedical Signal Processing and Control"
+  },
+  {
+    "Authors": "Essalih M.; Marraki M.E.; Zeryouh M.",
+    "Title": "The degree distance index for analysing the structure of social networks",
+    "Year": 2019,
+    "Source title": "International Journal of Advanced Trends in Computer Science and Engineering"
+  },
+  {
+    "Authors": "Bengheni A.; Didi F.; Bambrik I.",
+    "Title": "EEM-EHWSN: Enhanced Energy Management Scheme in Energy Harvesting Wireless Sensor Networks",
+    "Year": 2019,
+    "Source title": "Wireless Networks"
+  },
+  {
+    "Authors": "El Aouni A.; Yahia H.; Daoudi K.; Minaoui K.",
+    "Title": "A fourier approach to Lagrangian vortex detection",
+    "Year": 2019,
+    "Source title": "Chaos"
+  },
+  {
+    "Authors": "Hadjila F.; Belabed A.; Merzoug M.",
+    "Title": "Flexible service discovery based on multiple matching algorithms",
+    "Year": 2019,
+    "Source title": "International Journal of Web Engineering and Technology"
+  },
+  {
+    "Authors": "Bouhassoune I.; Saadane R.; Minaoui K.",
+    "Title": "RFID Double-Loop Tags with Novel Meandering Lines Design for Health Monitoring Application",
+    "Year": 2019,
+    "Source title": "International Journal of Antennas and Propagation"
+  },
+  {
+    "Authors": "Ghalmane Z.; Cherifi C.; Cherifi H.; Hassouni M.E.",
+    "Title": "Centrality in Complex Networks with Overlapping Community Structure",
+    "Year": 2019,
+    "Source title": "Scientific Reports"
+  },
+  {
+    "Authors": "Mourchid Y.; El Hassouni M.; Cherifi H.",
+    "Title": "A general framework for complex network-based image segmentation",
+    "Year": 2019,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Faieq S.; Front A.; Saidi R.; El Ghazi H.; Rahmani M.D.",
+    "Title": "A context-aware recommendation-based system for service composition in smart environments",
+    "Year": 2019,
+    "Source title": "Service Oriented Computing and Applications"
+  },
+  {
+    "Authors": "Benjelloun F.-Z.; Lahcen A.A.; Belfkih S.",
+    "Title": "Outlier detection techniques for big data streams: Focus on cyber security",
+    "Year": 2019,
+    "Source title": "International Journal of Internet Technology and Secured Transactions"
+  },
+  {
+    "Authors": "Rhanoui M.; Yousfi S.; Mikram M.; Merizak H.",
+    "Title": "Forecasting financial budget time series: Arima random walk vs lstm neural network",
+    "Year": 2019,
+    "Source title": "IAES International Journal of Artificial Intelligence"
+  },
+  {
+    "Authors": "Ghalmane Z.; El Hassouni M.; Cherifi C.; Cherifi H.",
+    "Title": "Centrality in modular networks",
+    "Year": 2019,
+    "Source title": "EPJ Data Science"
+  },
+  {
+    "Authors": "Zeryouh M.; El Marraki M.; Essalih M.",
+    "Title": "An efficient computational method for a distance-based measure of graphenylene networks",
+    "Year": 2019,
+    "Source title": "International Journal of Advanced Trends in Computer Science and Engineering"
+  },
+  {
+    "Authors": "Yakoubi F.; El Khattabi N.; El Marraki M.",
+    "Title": "The complexity of corona product of chained graph and an outer planar graph",
+    "Year": 2019,
+    "Source title": "International Journal of Advanced Trends in Computer Science and Engineering"
+  },
+  {
+    "Authors": "Yakoubi F.; El Khattabi N.; El Marraki M.",
+    "Title": "The reliability of the recursive corona product network",
+    "Year": 2019,
+    "Source title": "International Journal of Advanced Trends in Computer Science and Engineering"
+  },
+  {
+    "Authors": "El Gajoui K.; Allah F.A.; Oumsis M.",
+    "Title": "Classification approaches’ behavior in optical character recognition systems for diacritical languages: Case of Amazigh language",
+    "Year": 2019,
+    "Source title": "ICIC Express Letters, Part B: Applications"
+  },
+  {
+    "Authors": "El Hassouni J.; El Qadi A.; Bazzi M.; El Haziti M.",
+    "Title": "Modeling with ontologies design patterns: Credit risk scorecard as a case study",
+    "Year": 2019,
+    "Source title": "Indonesian Journal of Electrical Engineering and Computer Science"
+  },
+  {
+    "Authors": "Rami H.; Drissi El Maliani A.; El Hassouni M.",
+    "Title": "A Finite Mixture of Weibull-Based Statistical Model for Texture Retrieval in the Complex Wavelet Domain",
+    "Year": 2019,
+    "Source title": "IEEE Access"
+  },
+  {
+    "Authors": "Zerhari B.; Lahcen A.A.; Mouline S.",
+    "Title": "MIPCNF: Multi-iterative partitioning class noise filter",
+    "Year": 2019,
+    "Source title": "Journal of Intelligent and Fuzzy Systems"
+  },
+  {
+    "Authors": "El Aouni A.; Daoudi K.; Yahia H.; Minaoui K.; Benazzouz A.",
+    "Title": "Surface mixing and biological activity in the North-West African upwelling",
+    "Year": 2019,
+    "Source title": "Chaos"
+  },
+  {
+    "Authors": "Bendraou Y.; Essannouni F.; Salam A.",
+    "Title": "From local to global key-frame extraction based on important scenes using SVD of centrist features",
+    "Year": 2019,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Hamidi M.; Chetouani A.; El Haziti M.; El Hassouni M.; Cherifi H.",
+    "Title": "Blind robust 3D mesh watermarking based on mesh saliency and wavelet transform for copyright protection",
+    "Year": 2019,
+    "Source title": "Information (Switzerland)"
+  },
+  {
+    "Authors": "Lamghari Z.; Radgui M.; Saidi R.; Rahmani M.D.",
+    "Title": "Defining business process improvement metrics based on BPM life cycle and process mining techniques",
+    "Year": 2019,
+    "Source title": "International Journal of Business Process Integration and Management"
+  },
+  {
+    "Authors": "Iala I.; Dbibih I.; Zytoune O.; Rziza M.; Aboutajdine D.",
+    "Title": "A Kalman filter process for energy optimization in WSNs",
+    "Year": 2019,
+    "Source title": "Journal of Communications Software and Systems"
+  },
+  {
+    "Authors": "Karine A.; Toumi A.; Khenchaf A.; El Hassouni M.",
+    "Title": "Radar target recognition using salient keypoint descriptors and multitask sparse representation",
+    "Year": 2018,
+    "Source title": "Remote Sensing"
+  },
+  {
+    "Authors": "Ennekhli M.; El Ouazzani R.; El Haziti M.",
+    "Title": "A new content-based image retrieval system using Parzen relevance feedback and Kullback-Leibler divergence",
+    "Year": 2018,
+    "Source title": "International Journal of Computer Information Systems and Industrial Management Applications"
+  },
+  {
+    "Authors": "El Yafrani M.; Ahiod B.",
+    "Title": "Efficiently solving the Traveling Thief Problem using hill climbing and simulated annealing",
+    "Year": 2018,
+    "Source title": "Information Sciences"
+  },
+  {
+    "Authors": "Mansour A.A.; Enneya N.; Ouadou M.",
+    "Title": "A velocity-aware handover trigger in two-tier heterogeneous networks",
+    "Year": 2018,
+    "Source title": "Future Internet"
+  },
+  {
+    "Authors": "Elalaouy E.; Rhoulami K.; Rahmani M.D.",
+    "Title": "An agent cellular residential mobility model: From functional and conceptual view",
+    "Year": 2018,
+    "Source title": "International Journal of Advanced Computer Science and Applications"
+  },
+  {
+    "Authors": "Ibnoulouafi A.; El Haziti M.; Cherifi H.",
+    "Title": "M-Centrality: Identifying key nodes based on global position and local degree variation",
+    "Year": 2018,
+    "Source title": "Journal of Statistical Mechanics: Theory and Experiment"
+  },
+  {
+    "Authors": "Abouelaziz I.; El Hassouni M.; Cherifi H.",
+    "Title": "Blind 3D mesh visual quality assessment using support vector regression",
+    "Year": 2018,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "El Ghazi A.; Ahiod B.",
+    "Title": "Energy efficient teaching-learning-based optimization for the discrete routing problem in wireless sensor networks",
+    "Year": 2018,
+    "Source title": "Applied Intelligence"
+  },
+  {
+    "Authors": "Abdelali H.; Bachir S.; Oumsis M.",
+    "Title": "New technique combining the tone reservation method with clipping technique to reduce the peak-to-average power ratio",
+    "Year": 2018,
+    "Source title": "International Journal of Electrical and Computer Engineering"
+  },
+  {
+    "Authors": "Lazar H.; Rhoulami K.; Rahmani M.D.",
+    "Title": "Microscopic evaluation of extended car-following model in multi-lane roads",
+    "Year": 2018,
+    "Source title": "Informatica (Slovenia)"
+  },
+  {
+    "Authors": "Banit'ouagua I.; Kerroum M.A.; Hammouch A.",
+    "Title": "The use of band selection in weighted linear prediction for hyperspectral image classification",
+    "Year": 2018,
+    "Source title": "Journal of Computer Science"
+  },
+  {
+    "Authors": "Alaoui-Fdili O.; Coudoux F.-X.; Fakhri Y.; Corlay P.; Aboutajdine D.",
+    "Title": "Energy-efficient joint video encoding and transmission framework for WVSN",
+    "Year": 2018,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Ait Hammou B.; Ait Lahcen A.; Mouline S.",
+    "Title": "APRA: An approximate parallel recommendation algorithm for Big Data",
+    "Year": 2018,
+    "Source title": "Knowledge-Based Systems"
+  },
+  {
+    "Authors": "Bendaoud F.; Abdennebi M.; Didi F.",
+    "Title": "Network selection in wireless heterogeneous networks: A survey",
+    "Year": 2018,
+    "Source title": "Journal of Telecommunications and Information Technology"
+  },
+  {
+    "Authors": "El Ghorfi R.; El Aroussi M.; Ouadou M.",
+    "Title": "Real option analysis for valuating investments in information technology projects",
+    "Year": 2018,
+    "Source title": "Journal of Engineering and Applied Sciences"
+  },
+  {
+    "Authors": "Srifi M.; Hammou B.A.; Lahcen A.A.; Mouline S.",
+    "Title": "A concise survey on content recommendations",
+    "Year": 2018,
+    "Source title": "Communications in Computer and Information Science"
+  },
+  {
+    "Authors": "Ibnoulouafi A.; El Haziti M.",
+    "Title": "Density centrality: identifying influential nodes based on area density formula",
+    "Year": 2018,
+    "Source title": "Chaos, Solitons and Fractals"
+  },
+  {
+    "Authors": "Cherdal S.; Mouline S.",
+    "Title": "Modelling and simulation of biochemical processes using Petri nets",
+    "Year": 2018,
+    "Source title": "Processes"
+  },
+  {
+    "Authors": "Iala I.; Dbibih I.; Zytoune O.",
+    "Title": "Adaptive duty-cycle scheme based on a new prediction mechanism for energy optimization over IEEE 802.15.4 Wireless Network",
+    "Year": 2018,
+    "Source title": "International Journal of Intelligent Engineering and Systems"
+  },
+  {
+    "Authors": "Lyazidi A.; Mouline S.",
+    "Title": "A metamodel-driven definition and implementation of ONDAR: A home automation ontology",
+    "Year": 2018,
+    "Source title": "International Journal of Computer Applications in Technology"
+  },
+  {
+    "Authors": "Omari M.; Abdelouahed A.A.; El Hassouni M.; Cherifi H.",
+    "Title": "Improving reduced reference image quality assessment methods by using color information",
+    "Year": 2018,
+    "Source title": "International Journal of Computer Information Systems and Industrial Management Applications"
+  },
+  {
+    "Authors": "Zerhari B.; Ait Lehcen A.; Mouline S.",
+    "Title": "A new horizo-vertical distributed feature selection approach",
+    "Year": 2018,
+    "Source title": "Cybernetics and Information Technologies"
+  },
+  {
+    "Authors": "Karine A.; El Maliani A.D.; El Hassouni M.",
+    "Title": "A novel statistical model for content-based stereo image retrieval in the complex wavelet domain",
+    "Year": 2018,
+    "Source title": "Journal of Visual Communication and Image Representation"
+  },
+  {
+    "Authors": "Aarab Z.; El Ghazi A.; Saidi R.; Rahmani M.D.",
+    "Title": "Towards a context-aware Wireless Sensor Networks",
+    "Year": 2018,
+    "Source title": "International Journal of Engineering and Technology(UAE)"
+  },
+  {
+    "Authors": "Alaoui-Fdili O.; Coudoux F.-X.; Fakhri Y.; Corlay P.; Aboutajdine D.",
+    "Title": "Video sensor node energy preservation through dynamic adaptive video encoding parameters’ values selection",
+    "Year": 2018,
+    "Source title": "Sustainable Computing: Informatics and Systems"
+  },
+  {
+    "Authors": "Oulhaj H.; Jennane R.; Amine A.; El Hassouni M.; Rziza M.",
+    "Title": "Study of the relative magnitude in the wavelet domain for texture characterization",
+    "Year": 2018,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Mansour A.A.; Enneya N.; Ouadou M.",
+    "Title": "Enhanced matching game for decoupled uplink downlink context-aware handover",
+    "Year": 2018,
+    "Source title": "Future Internet"
+  },
+  {
+    "Authors": "Sifou F.; Hammouch A.; Kartit A.",
+    "Title": "Ensuring security in cloud computing using access control: A survey",
+    "Year": 2018,
+    "Source title": "Lecture Notes in Networks and Systems"
+  },
+  {
+    "Authors": "Elalaouy E.; Rhoulami K.; Rahmani M.D.",
+    "Title": "Cellular automata: From theoretical concepts to urban modeling a new methodology and perspective",
+    "Year": 2018,
+    "Source title": "Journal of Engineering and Applied Sciences"
+  },
+  {
+    "Authors": "Darif A.; Aboutajdine D.; Saadane R.",
+    "Title": "A new backoff algorithm for a low power consumption MAC protocol in IR-UWB based WSN",
+    "Year": 2018,
+    "Source title": "Journal of High Speed Networks"
+  },
+  {
+    "Authors": "Houssaini Z.S.; Zaimi I.; Drissi M.; Oumsis M.; Ouatik S.E.A.",
+    "Title": "Trade-off between accuracy, cost, and QoS using a beacon-on-demand strategy and Kalman filtering over a VANET",
+    "Year": 2018,
+    "Source title": "Digital Communications and Networks"
+  },
+  {
+    "Authors": "Halfaoui A.; Hadjila F.; Didi F.",
+    "Title": "QoS-aware web service selection based on self-organising migrating algorithm and fuzzy dominance",
+    "Year": 2018,
+    "Source title": "International Journal of Computational Science and Engineering"
+  },
+  {
+    "Authors": "Tadlaoui M.; Sehaba K.; George S.; Chikh A.; Bouamrane K.",
+    "Title": "Social recommender approach for technology-enhanced learning",
+    "Year": 2018,
+    "Source title": "International Journal of Learning Technology"
+  },
+  {
+    "Authors": "Ibadah N.; Minaoui K.; Rziza M.; Oumsis M.; Benavente-Peces C.",
+    "Title": "Smart collection of real-time vehicular mobility traces",
+    "Year": 2018,
+    "Source title": "Future Internet"
+  },
+  {
+    "Authors": "Cherdal S.; Mouline S.; Amghar S.",
+    "Title": "SBGN2HFPN transformation of SBGN-PD into Petri Nets illustrated on the Glycolysis pathway",
+    "Year": 2018,
+    "Source title": "International Journal of Intelligent Engineering and Systems"
+  },
+  {
+    "Authors": "El Yafrani M.; Martins M.; Wagner M.; Ahiod B.; Delgado M.; Lüders R.",
+    "Title": "A hyperheuristic approach based on low-level heuristics for the travelling thief problem",
+    "Year": 2018,
+    "Source title": "Genetic Programming and Evolvable Machines"
+  },
+  {
+    "Authors": "Elmouhtadi M.; El Fkihi S.; Aboutajdine D.",
+    "Title": "Fingerprint identification based on hierarchical triangulation",
+    "Year": 2018,
+    "Source title": "Journal of Information Processing Systems"
+  },
+  {
+    "Authors": "Abidi B.; Jilbab A.; Mohamed E.H.",
+    "Title": "An energy efficiency routing protocol for wireless body area networks",
+    "Year": 2018,
+    "Source title": "Journal of Medical Engineering and Technology"
+  },
+  {
+    "Authors": "Zeglazi O.; Rziza M.; Amine A.; Demonceaux C.",
+    "Title": "A hierarchical stereo matching algorithm based on adaptive support region aggregation method",
+    "Year": 2018,
+    "Source title": "Pattern Recognition Letters"
+  },
+  {
+    "Authors": "El Ghazi A.; Ahiod B.; Abbad M.",
+    "Title": "TLBO-based routing approach for wireless sensor networks",
+    "Year": 2018,
+    "Source title": "International Journal of Intelligent Engineering and Systems"
+  },
+  {
+    "Authors": "Ibadah N.; Minaoui K.; Rziza M.; Oumsis M.; Benavente-Peces C.",
+    "Title": "Deep validation of spatial temporal features of synthetic mobility models",
+    "Year": 2018,
+    "Source title": "Computers"
+  },
+  {
+    "Authors": "Oussous A.; Lahcen A.A.; Belfkih S.",
+    "Title": "Improving sentiment analysis of moroccan tweets using ensemble learning",
+    "Year": 2018,
+    "Source title": "Communications in Computer and Information Science"
+  },
+  {
+    "Authors": "Allaoui M.; Ahiod B.; El Yafrani M.",
+    "Title": "A hybrid crow search algorithm for solving the DNA fragment assembly problem",
+    "Year": 2018,
+    "Source title": "Expert Systems with Applications"
+  },
+  {
+    "Authors": "Hamidi M.; Haziti M.E.; Cherifi H.; Hassouni M.E.",
+    "Title": "Hybrid blind robust image watermarking technique based on DFT-DCT and Arnold transform",
+    "Year": 2018,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Lagdali S.; Rziza M.",
+    "Title": "Noisy texture analysis based on higher order spectra",
+    "Year": 2018,
+    "Source title": "International Journal of Engineering and Technology(UAE)"
+  },
+  {
+    "Authors": "Hbali Y.; Hbali S.; Ballihi L.; Sadgal M.",
+    "Title": "Skeleton-based human activity recognition for elderly monitoring systems",
+    "Year": 2018,
+    "Source title": "IET Computer Vision"
+  },
+  {
+    "Authors": "Bouarafa S.; Saadane R.; Rahmani M.D.",
+    "Title": "Inspired from ants colony: Smart routing algorithm of wireless sensor network",
+    "Year": 2018,
+    "Source title": "Information (Switzerland)"
+  },
+  {
+    "Authors": "El Krari M.; Ahiod B.; Benani B.E.",
+    "Title": "Breakout local search for the travelling salesman problem",
+    "Year": 2018,
+    "Source title": "Computing and Informatics"
+  },
+  {
+    "Authors": "Elmaroud B.; Faqihi A.; Aboutajdine D.",
+    "Title": "Sensitivity analysis of FBMC-based multi-cellular networks to synchronization errors and HPA nonlinearities",
+    "Year": 2017,
+    "Source title": "Eurasip Journal on Advances in Signal Processing"
+  },
+  {
+    "Authors": "Ouadou M.; Zytoune O.",
+    "Title": "Proactive redundant data filtering scheme for combined RFID and sensor networks",
+    "Year": 2017,
+    "Source title": "Electronics (Switzerland)"
+  },
+  {
+    "Authors": "Taghbalout I.; Ataa Allah F.; El Marraki M.",
+    "Title": "Pivot-based multilingual dictionary model for under-resourced languages",
+    "Year": 2017,
+    "Source title": "International Journal of Applied Engineering Research"
+  },
+  {
+    "Authors": "El Fellah S.; Rziza M.; El Haziti M.",
+    "Title": "An efficient approach for filling gaps in Landsat 7 satellite images",
+    "Year": 2017,
+    "Source title": "IEEE Geoscience and Remote Sensing Letters"
+  },
+  {
+    "Authors": "Abidi B.; Jilbab A.; El Haziti M.",
+    "Title": "Optimization of energy consumption with the gateway nodes in wireless sensor networks",
+    "Year": 2017,
+    "Source title": "International Journal of Sensors, Wireless Communications and Control"
+  },
+  {
+    "Authors": "Lyazidi A.; Mouline S.",
+    "Title": "A model-driven engineering approach to formally verify BPMN models using Petri nets",
+    "Year": 2017,
+    "Source title": "International Journal of Business Process Integration and Management"
+  },
+  {
+    "Authors": "Mokhlissi R.; Lotfi D.; Debnath J.; El Marraki M.",
+    "Title": "Complexity analysis of small-world networks” and spanning tree entropy",
+    "Year": 2017,
+    "Source title": "Studies in Computational Intelligence"
+  },
+  {
+    "Authors": "Mourchid Y.; El Hassouni M.; Cherifi H.",
+    "Title": "An image segmentation algorithm based on community detection",
+    "Year": 2017,
+    "Source title": "Studies in Computational Intelligence"
+  },
+  {
+    "Authors": "Oulhaj H.; Rziza M.; Amine A.; Toumi H.; Lespessailles E.; El Hassouni M.; Jennane R.",
+    "Title": "Anisotropic Discrete Dual-Tree Wavelet Transform for Improved Classification of Trabecular Bone",
+    "Year": 2017,
+    "Source title": "IEEE Transactions on Medical Imaging"
+  },
+  {
+    "Authors": "Oulhaj H.; Rziza M.; Amine A.; Toumi H.; Lespessailles E.; Jennane R.; El Hassouni M.",
+    "Title": "Trabecular bone characterization using circular parametric models",
+    "Year": 2017,
+    "Source title": "Biomedical Signal Processing and Control"
+  },
+  {
+    "Authors": "Houssaini Z.S.; Zaimi I.; Oumsis M.; Ouatik S.E.A.",
+    "Title": "Comparative study of routing protocols performance for vehicular Ad-hoc networks",
+    "Year": 2017,
+    "Source title": "International Journal of Applied Engineering Research"
+  },
+  {
+    "Authors": "Ousguine S.; Essannouni F.; Essannouni L.; Abbad M.; Aboutajdine D.",
+    "Title": "Speeding up edge guided image interpolation using the integral image technique",
+    "Year": 2017,
+    "Source title": "International Journal of Computer Information Systems and Industrial Management Applications"
+  },
+  {
+    "Authors": "Lagdali S.; Mohammed R.",
+    "Title": "Novel phase-based descriptor using bispectrum for texture classification",
+    "Year": 2017,
+    "Source title": "Pattern Recognition Letters"
+  },
+  {
+    "Authors": "El Ghali B.; El Qadi A.",
+    "Title": "Context-aware query expansion method using Language Models and Latent Semantic Analyses",
+    "Year": 2017,
+    "Source title": "Knowledge and Information Systems"
+  },
+  {
+    "Authors": "El Yafrani M.; Ahiod B.",
+    "Title": "A local search based approach for solving the Travelling Thief Problem: The pros and cons",
+    "Year": 2017,
+    "Source title": "Applied Soft Computing Journal"
+  },
+  {
+    "Authors": "Karine A.; Toumi A.; Khenchaf A.; El Hassouni M.",
+    "Title": "Target Recognition in Radar Images Using Weighted Statistical Dictionary-Based Sparse Representation",
+    "Year": 2017,
+    "Source title": "IEEE Geoscience and Remote Sensing Letters"
+  },
+  {
+    "Authors": "El Ghorfi R.; Aroussi M.E.; Ouadou M.; Aboutajdine D.",
+    "Title": "IT project management under real options theory and IT governance: A case study on organisation relocation",
+    "Year": 2017,
+    "Source title": "International Journal of Management and Decision Making"
+  },
+  {
+    "Authors": "Ait Hammou B.; Ait Lahcen A.",
+    "Title": "FRAIPA: A fast recommendation approach with improved prediction accuracy",
+    "Year": 2017,
+    "Source title": "Expert Systems with Applications"
+  },
+  {
+    "Authors": "Tamou A.B.; Ballihi L.; Aboutajdine D.",
+    "Title": "Automatic learning of articulated skeletons based on mean of 3D joints for efficient action recognition",
+    "Year": 2017,
+    "Source title": "International Journal of Pattern Recognition and Artificial Intelligence"
+  },
+  {
+    "Authors": "Hassouni M.E.; Tafraouti A.; Toumi H.; Lespessailles E.; Jennane R.",
+    "Title": "Fractional Brownian Motion and Rao Geodesic Distance for Bone X-Ray Image Characterization",
+    "Year": 2017,
+    "Source title": "IEEE Journal of Biomedical and Health Informatics"
+  },
+  {
+    "Authors": "Drissi M.; Oumsis M.; Aboutajdine D.",
+    "Title": "A Multi-Criteria Decision Framework for network selection over LTE and WLAN",
+    "Year": 2017,
+    "Source title": "Engineering Applications of Artificial Intelligence"
+  },
+  {
+    "Authors": "Lahcen A.A.; Parigot D.; Mouline S.",
+    "Title": "Data-dependency formalism for developing peer-To-peer applications",
+    "Year": 2017,
+    "Source title": "Computing and Informatics"
+  },
+  {
+    "Authors": "Elmouhtadi M.; Lafkik M.; Elfkihi S.",
+    "Title": "Biometric protection approach based on fingerprint hierarchical identification",
+    "Year": 2017,
+    "Source title": "International Journal of Applied Engineering Research"
+  },
+  {
+    "Authors": "Houssaini Z.S.; Zaimi I.; Oumsis M.; El Alaoui Ouatik S.",
+    "Title": "GPSR+Predict: An enhancement for GPSR to make smart routing decision by anticipating movement of vehicles in VANETs",
+    "Year": 2017,
+    "Source title": "Advances in Science, Technology and Engineering Systems"
+  },
+  {
+    "Authors": "Ouadou M.; Zytoune O.; Hillali Y.E.; Menhaj-Rivenq A.; Aboutajdine D.",
+    "Title": "Energy efficient hardware and improved cluster-tree topology for lifetime prolongation in ZigBee Sensor networks",
+    "Year": 2017,
+    "Source title": "Journal of Sensor and Actuator Networks"
+  },
+  {
+    "Authors": "Asmi K.; Lotfi D.; El Marraki M.",
+    "Title": "Large-scale community detection based on a new dissimilarity measure",
+    "Year": 2017,
+    "Source title": "Social Network Analysis and Mining"
+  },
+  {
+    "Authors": "Abbad Z.; El Maliani A.D.; Alaoui S.O.; El Hassouni M.",
+    "Title": "Rao-Geodesic distance on the generalized gamma manifold: Study of three sub-manifolds and application in the Texture Retrieval domain",
+    "Year": 2017,
+    "Source title": "Note di Matematica"
+  },
+  {
+    "Authors": "Alioua N.; Amine A.; Rogozan A.; Bensrhair A.; Rziza M.",
+    "Title": "Driver head pose estimation using efficient descriptor fusion",
+    "Year": 2016,
+    "Source title": "Eurasip Journal on Image and Video Processing"
+  },
+  {
+    "Authors": "Bennis I.; Fouchal H.; Zytoune O.; Aboutajdine D.",
+    "Title": "Carrier sense aware multipath geographic routing protocol",
+    "Year": 2016,
+    "Source title": "Wireless Communications and Mobile Computing"
+  },
+  {
+    "Authors": "Rami H.; Belmerhnia L.; Drissi El Maliani A.; El Hassouni M.",
+    "Title": "Texture retrieval using mixtures of generalized Gaussian distribution and Cauchy-Schwarz divergence in wavelet domain",
+    "Year": 2016,
+    "Source title": "Signal Processing: Image Communication"
+  },
+  {
+    "Authors": "Yousfi A.; De Freitas A.; Dey A.K.; Saidi R.",
+    "Title": "The use of ubiquitous computing for business process improvement",
+    "Year": 2016,
+    "Source title": "IEEE Transactions on Services Computing"
+  },
+  {
+    "Authors": "Saidi A.; Kartit A.; Bendriss E.; El Marraki M.",
+    "Title": "The functional of a mobile agent system to enhance DoS and DDoS detection in cloud",
+    "Year": 2016,
+    "Source title": "International Journal of Applied Engineering Research"
+  },
+  {
+    "Authors": "Assad N.; Elbhiri B.; Faqihi M.A.; Ouadou M.; Aboutajdine D.",
+    "Title": "Efficient deployment quality analysis for intrusion detection in wireless sensor networks",
+    "Year": 2016,
+    "Source title": "Wireless Networks"
+  },
+  {
+    "Authors": "Azzakhnini S.; Ballihi L.; Aboutajdine D.",
+    "Title": "Learning discriminative features from RGB-D images for gender and ethnicity identification",
+    "Year": 2016,
+    "Source title": "Journal of Electronic Imaging"
+  },
+  {
+    "Authors": "Yousfi A.; Bauer C.; Saidi R.; Dey A.K.",
+    "Title": "UBPMN: A BPMN extension for modeling ubiquitous business processes",
+    "Year": 2016,
+    "Source title": "Information and Software Technology"
+  },
+  {
+    "Authors": "Yousfi A.; Saidi R.; Dey A.K.",
+    "Title": "Variability patterns for business processes in BPMN",
+    "Year": 2016,
+    "Source title": "Information Systems and e-Business Management"
+  },
+  {
+    "Authors": "Alibouch B.; Radgui A.; Demonceaux C.; Rziza M.; Aboutajdine D.",
+    "Title": "A phase-based framework for optical flow estimation on omnidirectional images",
+    "Year": 2016,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Fakhar K.; El Aroussi M.; Saidi M.N.; Aboutajdine D.",
+    "Title": "Fuzzy pattern recognition-based approach to biometric score fusion problem",
+    "Year": 2016,
+    "Source title": "Fuzzy Sets and Systems"
+  },
+  {
+    "Authors": "Dad N.; En-Nahnahi N.; Ouatik S.E.A.; Oumsis M.",
+    "Title": "Adaptation of spherical harmonic transform for color shape reconstruction and retrieval using quaternion algebra",
+    "Year": 2016,
+    "Source title": "Journal of Electronic Imaging"
+  },
+  {
+    "Authors": "Badri H.; Yahia H.; Aboutajdine D.",
+    "Title": "Low-Rankness Transfer for Realistic Denoising",
+    "Year": 2016,
+    "Source title": "IEEE Transactions on Image Processing"
+  },
+  {
+    "Authors": "Moujahdi C.; Bebis G.; Ghouzali S.; Mikram M.; Rziza M.",
+    "Title": "Biometric Template Protection Using Spiral Cube: Performance and Security Analysis",
+    "Year": 2016,
+    "Source title": "International Journal on Artificial Intelligence Tools"
+  },
+  {
+    "Authors": "Mourchid Y.; El Hassouni M.; Cherifi H.",
+    "Title": "Image segmentation based on community detection approach",
+    "Year": 2016,
+    "Source title": "International Journal of Computer Information Systems and Industrial Management Applications"
+  },
+  {
+    "Authors": "Boushaba A.; Benabbou A.; Benabbou R.; Zahi A.; Oumsis M.",
+    "Title": "An intelligent multipath optimized link state routing protocol for QoS and QoE enhancement of video transmission in MANETs",
+    "Year": 2016,
+    "Source title": "Computing"
+  },
+  {
+    "Authors": "El Gajoui K.; Allah F.A.; Oumsis M.",
+    "Title": "Recognition of Amazigh language transcribed into Latin based on polygonal approximation",
+    "Year": 2016,
+    "Source title": "International Journal of Circuits, Systems and Signal Processing"
+  },
+  {
+    "Authors": "Bahja F.; Di Martino J.; Ibn Elhaj E.; Aboutajdine D.",
+    "Title": "A corroborative study on improving pitch determination by time–frequency cepstrum decomposition using wavelets",
+    "Year": 2016,
+    "Source title": "SpringerPlus"
+  },
+  {
+    "Authors": "Zahir J.; El Qadi A.",
+    "Title": "A recommendation system for execution plans using machine learning",
+    "Year": 2016,
+    "Source title": "Mathematical and Computational Applications"
+  },
+  {
+    "Authors": "Zytoune O.; Aboutajdine D.",
+    "Title": "Energy usage analysis of digital modulations in wireless sensor networks with realistic battery model",
+    "Year": 2016,
+    "Source title": "Wireless Networks"
+  },
+  {
+    "Authors": "Ait Abdelali H.; Essannouni F.; Essannouni L.; Aboutajdine D.",
+    "Title": "Fast and robust object tracking via Accept-Reject color histogram-based method",
+    "Year": 2016,
+    "Source title": "Journal of Visual Communication and Image Representation"
+  },
+  {
+    "Authors": "Ousguine S.; Essannouni F.; Essannouni L.; Abbad M.; Aboutajdine D.",
+    "Title": "A new image interpolation using the bilateral filter",
+    "Year": 2016,
+    "Source title": "International Journal of Imaging and Robotics"
+  },
+  {
+    "Authors": "Lazar H.; Rhoulami K.; Rahmani D.",
+    "Title": "A review analysis of optimal velocity models",
+    "Year": 2016,
+    "Source title": "Periodica Polytechnica Transportation Engineering"
+  },
+  {
+    "Authors": "Ghouzali S.; Lafkih M.; Abdul W.; Mikram M.; El Haziti M.; Aboutajdine D.",
+    "Title": "Trace Attack against Biometric Mobile Applications",
+    "Year": 2016,
+    "Source title": "Mobile Information Systems"
+  },
+  {
+    "Authors": "Nejme F.Z.; Boulaknadel S.; Aboutajdine D.",
+    "Title": "AmAMorph: Finite state morphological analyzer for Amazighe",
+    "Year": 2016,
+    "Source title": "Journal of Computing and Information Technology"
+  },
+  {
+    "Authors": "Banit'ouagua I.; Kerroum M.A.; Hammouch A.; Aboutajdine D.",
+    "Title": "Band selection by mutual information for hyper-spectral image classification",
+    "Year": 2016,
+    "Source title": "International Journal of Advanced Intelligence Paradigms"
+  },
+  {
+    "Authors": "Benyoussef M.; Mabtoul S.; El Marraki M.; Aboutajdine D.",
+    "Title": "Robust ROI watermarking scheme based on visual cryptography: Application on mammograms",
+    "Year": 2015,
+    "Source title": "Journal of Information Processing Systems"
+  },
+  {
+    "Authors": "Yousfi A.; Dey A.K.; Saidi R.; Hong J.-H.",
+    "Title": "Introducing decision-aware business processes",
+    "Year": 2015,
+    "Source title": "Computers in Industry"
+  },
+  {
+    "Authors": "Kartit Z.; El Marraki M.; Azougaghe A.; Belkasmi M.",
+    "Title": "Towards a secure electronic voting in cloud computing environment using homomorphic encryption algorithm",
+    "Year": 2015,
+    "Source title": "International Journal of Applied Engineering Research"
+  },
+  {
+    "Authors": "Akbil B.; Aboutajdine D.",
+    "Title": "Improved IDMA for multiple access of 5G",
+    "Year": 2015,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Aouinatou R.; Belkasmi M.; Askali M.",
+    "Title": "A dynamic study with side channel against an identification based encryption",
+    "Year": 2015,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Kartit Z.; El Marraki M.",
+    "Title": "Applying encryption algorithm to enhance data security in cloud storage",
+    "Year": 2015,
+    "Source title": "Engineering Letters"
+  },
+  {
+    "Authors": "Azougaghe A.; Kartit Z.; Hedabou M.; Belkasmi M.; Benmiloud M.; Marraki M.",
+    "Title": "An efficient electronic voting system in a cloud computing environment",
+    "Year": 2015,
+    "Source title": "International Review on Computers and Software"
+  },
+  {
+    "Authors": "Lotfi D.; Marraki M.E.; Aboutajdine D.",
+    "Title": "The Enumeration of Spanning Trees in Dual, Bipartite and Reduced Graphs",
+    "Year": 2015,
+    "Source title": "Journal of Discrete Mathematical Sciences and Cryptography"
+  },
+  {
+    "Authors": "Assad N.; Elbhiri B.; Faqihi M.A.; Ouadou M.; Aboutajdine D.",
+    "Title": "Analysis of the deployment quality for intrusion detection in wireless sensor networks",
+    "Year": 2015,
+    "Source title": "Journal of Computer Networks and Communications"
+  },
+  {
+    "Authors": "Omari M.; Hassouni M.E.; Abdelouahad A.A.; Cherifi H.",
+    "Title": "A statistical reduced-reference method for color image quality assessment",
+    "Year": 2015,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Ouaarab A.; Ahiod B.; Yang X.-S.",
+    "Title": "Discrete cuckoo search applied to job shop scheduling problem",
+    "Year": 2015,
+    "Source title": "Studies in Computational Intelligence"
+  },
+  {
+    "Authors": "Mokhlissi R.; Lotfi D.; Marraki M.E.",
+    "Title": "Combinatorial methods evaluating the complexity of book networks",
+    "Year": 2015,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Fakhar K.; El Aroussi M.; Saidi M.N.; Aboutajdine D.",
+    "Title": "Applying the upper integral to the biometric score fusion problem in the identification model",
+    "Year": 2015,
+    "Source title": "Information (Switzerland)"
+  },
+  {
+    "Authors": "Benamar F.; Elfkihi S.; Demonceaux C.; Mouaddib E.; Aboutajdine D.",
+    "Title": "Visual contact with catadioptric cameras",
+    "Year": 2015,
+    "Source title": "Robotics and Autonomous Systems"
+  },
+  {
+    "Authors": "Tamim A.; Yahia H.; Daoudi K.; Minaoui K.; Atillah A.; Aboutajdine D.; Smiej M.F.",
+    "Title": "Detection of Moroccan coastal upwelling fronts in SST images using the microcanonical multiscale formalism",
+    "Year": 2015,
+    "Source title": "Pattern Recognition Letters"
+  },
+  {
+    "Authors": "Ilyas B.; Fedoua D.",
+    "Title": "A novel proactive routing method for mobile Ad hoc Networks",
+    "Year": 2015,
+    "Source title": "American Journal of Applied Sciences"
+  },
+  {
+    "Authors": "Boushaba A.; Benabbou A.; Benabbou R.; Zahi A.; Oumsis M.",
+    "Title": "Multi-point relay selection strategies to reduce topology control traffic for OLSR protocol in MANETs",
+    "Year": 2015,
+    "Source title": "Journal of Network and Computer Applications"
+  },
+  {
+    "Authors": "Zeryouh M.; El Marraki M.; Essalih M.",
+    "Title": "Terminal wiener index of star-tree and path-tree",
+    "Year": 2015,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Jorio A.; El Fkihi S.; Elbhiri B.; Aboutajdine D.",
+    "Title": "An energy-efficient clustering routing algorithm based on geographic position and residual energy for wireless sensor network",
+    "Year": 2015,
+    "Source title": "Journal of Computer Networks and Communications"
+  },
+  {
+    "Authors": "Kamal Idrissi H.; Kartit A.",
+    "Title": "An application of methods and principles for designing and analyzing security protocols",
+    "Year": 2015,
+    "Source title": "International Journal of Applied Engineering Research"
+  },
+  {
+    "Authors": "Drissi El Maliani A.; El Hassouni M.; Berthoumieu Y.; Aboutajdine D.",
+    "Title": "Generic multivariate model for color texture classification in RGB color space",
+    "Year": 2015,
+    "Source title": "International Journal of Multimedia Information Retrieval"
+  },
+  {
+    "Authors": "Drissi M.; Oumsis M.",
+    "Title": "Multi-criteria vertical handover comparison between Wimax and Wifi",
+    "Year": 2015,
+    "Source title": "Information (Switzerland)"
+  },
+  {
+    "Authors": "Bahja F.; Di Martino J.; Ibn Elhaj E.; Aboutajdine D.",
+    "Title": "An overview of the CATE algorithms for real-time pitch determination",
+    "Year": 2015,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Ouaarab A.; Ahiod B.; Yang X.-S.",
+    "Title": "Random-key cuckoo search for the travelling salesman problem",
+    "Year": 2015,
+    "Source title": "Soft Computing"
+  },
+  {
+    "Authors": "Badri H.; Yahia H.; Aboutajdine D.",
+    "Title": "Fast edge-aware processing via first order proximal approximation",
+    "Year": 2015,
+    "Source title": "IEEE Transactions on Visualization and Computer Graphics"
+  },
+  {
+    "Authors": "Rouijel A.; Minaoui K.; Comon P.; Aboutajdine D.",
+    "Title": "CP decomposition approach to blind separation for DS-CDMA system using a new performance index",
+    "Year": 2014,
+    "Source title": "Eurasip Journal on Advances in Signal Processing"
+  },
+  {
+    "Authors": "Touil H.; Fakhri Y.",
+    "Title": "A fuzzy-based QoS maximization protocol for WiFi multimedia (IEEE 802.11e) ad hoc networks",
+    "Year": 2014,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Sarhrouni E.; Hammouch A.; Aboutajdine D.",
+    "Title": "An algorithm and heuristic based on normalized mutual information for dimensionality reduction and classification of hyperspectral images",
+    "Year": 2014,
+    "Source title": "International Journal of Tomography and Simulation"
+  },
+  {
+    "Authors": "Moujahdi C.; Bebis G.; Ghouzali S.; Rziza M.",
+    "Title": "Fingerprint shell: Secure representation of fingerprint template",
+    "Year": 2014,
+    "Source title": "Pattern Recognition Letters"
+  },
+  {
+    "Authors": "Yakoubi F.; El Marraki M.",
+    "Title": "Enumeration of spanning trees in certain vertex corona product graph",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Kamal Idrissi H.; Kartit A.; El Marraki M.",
+    "Title": "Foremost security apprehensions in cloud computing",
+    "Year": 2014,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Ouaarab A.; Ahiod B.; Yang X.-S.",
+    "Title": "Improved and discrete cuckoo search for solving the travelling salesman problem",
+    "Year": 2014,
+    "Source title": "Studies in Computational Intelligence"
+  },
+  {
+    "Authors": "Atmani A.; El Marraki M.; Essalih M.",
+    "Title": "The algorithm to calculate the Wiener, the hyper-wiener and the degree distance indices of the diamond",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Kordala A.; El Marraki M.; Essalih M.",
+    "Title": "The Wiener, the hyper-Wiener and the degree distance indices of the bar Polyhex graph",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Mohammadi Z.; Saadane R.; Aboutajdine D.",
+    "Title": "On ultra wideband indoor channel modeling based on generalized gamma distribution",
+    "Year": 2014,
+    "Source title": "Wireless Personal Communications"
+  },
+  {
+    "Authors": "Touil H.; Fakhri Y.",
+    "Title": "QoS-aware MAC protocols based on the IEEE 802.11e for wireless multimedia sensor networks",
+    "Year": 2014,
+    "Source title": "International Review on Computers and Software"
+  },
+  {
+    "Authors": "Benyoussef M.; Mabtoul S.; El Marraki M.; Aboutajdine D.",
+    "Title": "Robust image watermarking scheme using visual cryptography in dual-tree complex wavelet domain",
+    "Year": 2014,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Zeryouh M.; El Marraki M.; Essalih M.",
+    "Title": "Wiener and terminal Wiener indices of some rooted trees",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Abdelkarim T.; Hassane H.; Alaoui Ouatik S.E.; Mohamed O.; Brahim R.",
+    "Title": "Mobility in the nsis signaling protocol",
+    "Year": 2014,
+    "Source title": "International Journal on Communications Antenna and Propagation"
+  },
+  {
+    "Authors": "Sahbani H.; El Marraki M.",
+    "Title": "Ennumeration of the number of spanning trees in the lantern maximal planar graph",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Ait Abdelouahad A.; El Hassouni M.; Cherifi H.; Aboutajdine D.",
+    "Title": "Reduced reference image quality assessment based on statistics in empirical mode decomposition domain",
+    "Year": 2014,
+    "Source title": "Signal, Image and Video Processing"
+  },
+  {
+    "Authors": "Benamar F.Z.; Fkihi S.E.; Demonceaux C.; Mouaddib E.M.; Aboutajdine D.",
+    "Title": "Time to collision (TTC) estimation maps based on optical flow in paracatadioptric vision; [Estimation des cartes du temps de collision (TTC) basée sur le flot optique en vision para-catadioptrique]",
+    "Year": 2014,
+    "Source title": "Traitement du Signal"
+  },
+  {
+    "Authors": "Kartit Z.; Kamal Idrissi H.; Kartit A.; El Marraki M.",
+    "Title": "Improvement of algorithm for updating firewall policies",
+    "Year": 2014,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "El Maliani A.D.; El Hassouni M.; Berthoumieu Y.; Aboutajdine D.",
+    "Title": "Color texture classification method based on a statistical multi-model and geodesic distance",
+    "Year": 2014,
+    "Source title": "Journal of Visual Communication and Image Representation"
+  },
+  {
+    "Authors": "Mokhlissi R.; El Marraki M.",
+    "Title": "Enumeration of spanning trees in a closed chain of fan and wheel",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Elmaroud B.; Faqihi A.; Abbad M.; Aboutajdine D.",
+    "Title": "On the impact of prototype filter length on the PAPR reduction of FBMC signals",
+    "Year": 2014,
+    "Source title": "International Journal of Engineering and Technology"
+  },
+  {
+    "Authors": "Moujahdi C.; Ghouzali S.; Mikram M.; Wadood A.; Rziza M.",
+    "Title": "Inter-communication classification for multi-view face recognition",
+    "Year": 2014,
+    "Source title": "International Arab Journal of Information Technology"
+  },
+  {
+    "Authors": "Radgui M.; Saidi R.; Mouline S.",
+    "Title": "Qualitative assessments of a mechanism Identification trades fragments from reusable business process; [Évaluations qualitatives d'un mécanisme d'identification de fragments métiers réutilisables à partir de processus métiers]",
+    "Year": 2014,
+    "Source title": "Ingenierie des Systemes d'Information"
+  },
+  {
+    "Authors": "Alibouch B.; Iazzi A.; Radgui A.; Rziza M.",
+    "Title": "An adapted block thresholding method for omnidirectional image denoising",
+    "Year": 2014,
+    "Source title": "Research Journal of Applied Sciences, Engineering and Technology"
+  },
+  {
+    "Authors": "Essalih M.; El Marraki M.; Atmani A.E.",
+    "Title": "The Wiener index, the hyper-Wiener index and the degree distance index of the corona CmοCn",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Mohammadi Z.; Saadane R.; Aboutajdine D.",
+    "Title": "New high-rate UWB scheme for WBAN-based healthcare systems",
+    "Year": 2014,
+    "Source title": "Progress In Electromagnetics Research B"
+  },
+  {
+    "Authors": "Ouaarab A.; Ahiod B.; Yang X.-S.",
+    "Title": "Discrete cuckoo search algorithm for the travelling salesman problem",
+    "Year": 2014,
+    "Source title": "Neural Computing and Applications"
+  },
+  {
+    "Authors": "Darif A.; Saadane R.; Aboutajdine D.",
+    "Title": "No communication nodes synchronization for a low power consumption MAC protocol in WSN based on IR-UWB",
+    "Year": 2014,
+    "Source title": "Journal of Communications Software and Systems"
+  },
+  {
+    "Authors": "Ljouad T.; Amine A.; Rziza M.",
+    "Title": "A hybrid mobile object tracker based on the modified Cuckoo Search algorithm and the Kalman Filter",
+    "Year": 2014,
+    "Source title": "Pattern Recognition"
+  },
+  {
+    "Authors": "Alioua N.; Amine A.; Rziza M.",
+    "Title": "Driver's fatigue detection based on yawning extraction",
+    "Year": 2014,
+    "Source title": "International Journal of Vehicular Technology"
+  },
+  {
+    "Authors": "Sahbani H.; Marraki M.E.",
+    "Title": "Formula for the number of spanning trees in light graph",
+    "Year": 2014,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Bezzazi F.; Kartit A.; El Marraki M.; Aboutajdine D.",
+    "Title": "Enhanced strategy of deployment firewall policies",
+    "Year": 2013,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Jorio A.; Fkihi S.E.; Elbhiri B.; Aboutajdine D.",
+    "Title": "A new clustering algorithm for wireless sensor networks",
+    "Year": 2013,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Nsiri B.; Boudlal A.; Aboutajdine D.",
+    "Title": "Block matching algorithms based on extended Mahalanobis distance and Kullback-Leiber divergence for motion estimation",
+    "Year": 2013,
+    "Source title": "Journal of Applied Sciences"
+  },
+  {
+    "Authors": "Hrarti M.; Saadane A.; Larabi M.-C.; Barland R.",
+    "Title": "Attentional mechanisms driven adaptive quantization and selective bit allocation scheme for H.264/AVC",
+    "Year": 2013,
+    "Source title": "Signal Processing: Image Communication"
+  },
+  {
+    "Authors": "Benabbou A.; Boushaba A.; Zahi A.; Benabbou R.; Oumsis M.",
+    "Title": "New heuristic for reducing MPR in OLSR",
+    "Year": 2013,
+    "Source title": "International Review on Computers and Software"
+  },
+  {
+    "Authors": "Bara S.; Sandabade S.; Ait Kerroum M.; Hammouch A.; Aboutajdine D.",
+    "Title": "Correction, denoising and segmentation of MRI images via levels set method",
+    "Year": 2013,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Radgui M.; Saidi R.; Mouline S.",
+    "Title": "Design for reuse in business process: Method and experiments",
+    "Year": 2013,
+    "Source title": "International Journal of Enterprise Information Systems"
+  },
+  {
+    "Authors": "Gutman I.; Essalih M.; Marraki M.E.; Furtula B.",
+    "Title": "Why plerograms are not used in chemical graph theory? the case of terminal-Wiener index",
+    "Year": 2013,
+    "Source title": "Chemical Physics Letters"
+  },
+  {
+    "Authors": "Elouerkhaoui A.; Aboutajdine D.",
+    "Title": "Pattern discovery and analysis from semi-structured data: The automatic regeneration of patterns",
+    "Year": 2013,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Aouinatou R.; Belkasmi M.",
+    "Title": "On the conventional public key in identification-based encryption: The case of RSA",
+    "Year": 2013,
+    "Source title": "International Journal of Information and Computer Security"
+  },
+  {
+    "Authors": "Jourani R.; Daoudi K.; André-Obrecht R.; Aboutajdine D.",
+    "Title": "Discriminative speaker recognition using large margin GMM",
+    "Year": 2013,
+    "Source title": "Neural Computing and Applications"
+  },
+  {
+    "Authors": "Lotfi D.; El Marraki M.; Aboutajdine D.",
+    "Title": "The contraction method for counting the complexity of planar graphs with cut vertices",
+    "Year": 2013,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "El Harchaoui N.-E.; Ait Kerroum M.; Hammouch A.; Ouadou M.; Aboutajdine D.",
+    "Title": "Unsupervised approach data analysis based on fuzzy possibilistic clustering: Application to medical image MRI",
+    "Year": 2013,
+    "Source title": "Computational Intelligence and Neuroscience"
+  },
+  {
+    "Authors": "Sarhrouni E.; Hammouch A.; Aboutajdine D.",
+    "Title": "Feature selection intelligent algorithm with mutual information and steepest ascent strategy",
+    "Year": 2013,
+    "Source title": "International Journal of Advanced Intelligence Paradigms"
+  },
+  {
+    "Authors": "Sarhrouni E.; Hammouch A.; Aboutajdine D.",
+    "Title": "A dashboard to analysis and synthesis of dimensionality reduction methods in remote sensing",
+    "Year": 2013,
+    "Source title": "International Journal of Engineering and Technology"
+  },
+  {
+    "Authors": "El Hamdouni N.; Adib A.; Larbi S.D.; Turki M.",
+    "Title": "A blind digital audio watermarking scheme based on EMD and UISA techniques",
+    "Year": 2013,
+    "Source title": "Multimedia Tools and Applications"
+  },
+  {
+    "Authors": "Rouijel A.; Nsiri B.; Aboutajdine D.",
+    "Title": "Performance analysis of a novel OWDM-IDMA approach for wireless communication system",
+    "Year": 2012,
+    "Source title": "Journal of Communications Software and Systems"
+  },
+  {
+    "Authors": "Sarhrouni E.; Hammouch A.; Aboutajdine D.",
+    "Title": "Application of symmetric uncertainty and mutual information to dimensionality reduction and classification of hyperspectral images",
+    "Year": 2012,
+    "Source title": "International Journal of Engineering and Technology"
+  },
+  {
+    "Authors": "Ahmed B.; Zytoune O.; Nourddine E.; Mohamed R.; Mohamed O.",
+    "Title": "Adaptive velocity and distance based routing protocol for manet",
+    "Year": 2012,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Ballihi L.; Ben Amor B.; Daoudi M.; Srivastava A.; Aboutajdine D.",
+    "Title": "Selecting of 3D geometric features by boosting for face recognition; [Sélection de caractéristiques géométriques pour la reconnaissance faciale 3D]",
+    "Year": 2012,
+    "Source title": "Traitement du Signal"
+  },
+  {
+    "Authors": "Ahmed B.; Mohamed R.; Mohamed O.",
+    "Title": "Queue length and mobility aware routing protocol for mobile ad hoc network",
+    "Year": 2012,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Ballihi L.; Ben Amor B.; Daoudi M.; Srivastava A.; Aboutajdine D.",
+    "Title": "Boosting 3-D-geometric features for efficient face recognition and gender classification",
+    "Year": 2012,
+    "Source title": "IEEE Transactions on Information Forensics and Security"
+  },
+  {
+    "Authors": "Mohammadi Z.; Saadane R.; Aboutajdine D.",
+    "Title": "Improving the estimation of the degrees of freedom for UWB channel using wavelet-based denoising",
+    "Year": 2012,
+    "Source title": "European Journal of Scientific Research"
+  },
+  {
+    "Authors": "El Maliani A.D.; El Hassouni M.; Berthoumieu Y.; Aboutajdine D.",
+    "Title": "Multivariate generalized gamma distribution for content based image retrieval",
+    "Year": 2012,
+    "Source title": "Journal of Convergence Information Technology"
+  },
+  {
+    "Authors": "Fdili O.A.; Fakhri Y.; Aboutajdine D.",
+    "Title": "Impact of queue buffer size awareness on single and multi service real-time routing protocols for WSNs",
+    "Year": 2012,
+    "Source title": "International Journal of Communication Networks and Information Security"
+  },
+  {
+    "Authors": "Bouirouga H.; El Fkihi S.; Jilbab A.; Aboutajdine D.",
+    "Title": "Skin detection in pornographic videos using threshold technique",
+    "Year": 2012,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Anoual H.; Fkihi S.E.; Jilbab A.; Aboutajdine D.",
+    "Title": "A novel texture-based algorithm for localizing vehicle license plates",
+    "Year": 2012,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Ahmed B.; Zytoune O.; Mohamed R.; Mohamed O.; Driss A.",
+    "Title": "Reducing the effect of mobility on AODV",
+    "Year": 2012,
+    "Source title": "International Review on Computers and Software"
+  },
+  {
+    "Authors": "Sarhrouni E.; Hammouch A.; Aboutajdine D.",
+    "Title": "Dimensionality reduction and classification feature using mutual information applied to hyperspectral images: A wrapper strategy algorithm based on minimizing the error probability using the inequality of fano",
+    "Year": 2012,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Sarhrouni E.; Hammouch A.; Aboutajdine D.",
+    "Title": "Dimensionality Reduction and Classification Feature Using Mutual Information Applied to Hyperspectral Images: A Filter Strategy Based Algorithm",
+    "Year": 2012,
+    "Source title": "Applied Mathematical Sciences"
+  },
+  {
+    "Authors": "Essannouni L.; Aboutajdine D.",
+    "Title": "Correlation of robust Haar-like feature",
+    "Year": 2011,
+    "Source title": "Electronics Letters"
+  },
+  {
+    "Authors": "El Khattabi H.; Tamtaoui A.; Aboutajdine D.",
+    "Title": "Video quality assessment measure with a neural network",
+    "Year": 2011,
+    "Source title": "World Academy of Science, Engineering and Technology"
+  },
+  {
+    "Authors": "Radgui A.; Demonceaux C.; Mouaddib E.; Rziza M.; Aboutajdine D.",
+    "Title": "Optical flow estimation from multichannel spherical image decomposition",
+    "Year": 2011,
+    "Source title": "Computer Vision and Image Understanding"
+  },
+  {
+    "Authors": "Akadi A.E.; Amine A.; Ouardighi A.E.; Aboutajdine D.",
+    "Title": "A two-stage gene selection scheme utilizing MRMR filter and GA wrapper",
+    "Year": 2011,
+    "Source title": "Knowledge and Information Systems"
+  },
+  {
+    "Authors": "Abdelouahad A.A.; El Hassouni M.; Cherifi H.; Aboutajdine D.",
+    "Title": "A Reduced Reference Image Quality Measure Using Bessel K Forms Model for Tetrolet Coefficients",
+    "Year": 2011,
+    "Source title": "Journal of Convergence Information Technology"
+  },
+  {
+    "Authors": "Lotfi D.; El Marraki M.; Modabish A.",
+    "Title": "Recursive relation for counting the complexity of butterfly map",
+    "Year": 2011,
+    "Source title": "Journal of Theoretical and Applied Information Technology"
+  },
+  {
+    "Authors": "Benyoussef M.; Idrissi N.; Aboutajdine D.",
+    "Title": "A distributed approach to color image segmentation",
+    "Year": 2011,
+    "Source title": "Advances in Intelligent and Soft Computing"
+  },
+  {
+    "Authors": "Oubram O.; Gaggero-Sager L.M.; Navarro O.; Ouadou M.",
+    "Title": "Transport and electronic properties of the GaAs ALD-FET",
+    "Year": 2011,
+    "Source title": "Progress in Electromagnetics Research"
+  },
+  {
+    "Authors": "Elbhiri B.; Saadane R.; Aboutajdine D.",
+    "Title": "Stochastic and Equitable Distributed Energy-Efficient Clustering (SEDEEC) for heterogeneous wireless sensor networks",
+    "Year": 2011,
+    "Source title": "International Journal of Ad Hoc and Ubiquitous Computing"
+  },
+  {
+    "Authors": "Zytoune O.; El Aroussi M.; Aboutajdine D.",
+    "Title": "An energy efficient clustering protocol for routing in wireless sensor network",
+    "Year": 2011,
+    "Source title": "International Journal of Ad Hoc and Ubiquitous Computing"
+  },
+  {
+    "Authors": "El Aroussi M.; El Hassouni M.; Ghouzali S.; Rziza M.; Aboutajdine D.",
+    "Title": "Local appearance based face recognition method using block based steerable pyramid transform",
+    "Year": 2011,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "Zytoune O.; Fakhri Y.; Aboutajdine D.",
+    "Title": "Lifetime maximisation algorithm in Wireless Sensor Network",
+    "Year": 2010,
+    "Source title": "International Journal of Ad Hoc and Ubiquitous Computing"
+  },
+  {
+    "Authors": "Kerroum M.A.; Hammouch A.; Aboutajdine D.",
+    "Title": "Input textural feature selection by mutual information for multispectral image classification",
+    "Year": 2010,
+    "Source title": "World Academy of Science, Engineering and Technology"
+  },
+  {
+    "Authors": "Ait Kerroum M.; Hammouch A.; Aboutajdine D.",
+    "Title": "Textural feature selection by joint mutual information based on Gaussian mixture model for multispectral image classification",
+    "Year": 2010,
+    "Source title": "Pattern Recognition Letters"
+  },
+  {
+    "Authors": "Moretto A.; Colin E.; Ripoll C.; Abou Chakra S.",
+    "Title": "Shunt behavior in RFID UHF tag according to iso standards and manufacturer requirements",
+    "Year": 2010,
+    "Source title": "Proceedings of the IEEE"
+  },
+  {
+    "Authors": "El Maia H.; Hammouch A.; Aboutajdine D.",
+    "Title": "A color-texture approach based on mutual information for multispectral image classification",
+    "Year": 2010,
+    "Source title": "Journal of Multimedia"
+  },
+  {
+    "Authors": "Essannouni F.; Aboutajdine D.",
+    "Title": "Fast frequency template matching using higher order statistics",
+    "Year": 2010,
+    "Source title": "IEEE Transactions on Image Processing"
+  },
+  {
+    "Authors": "Nsiri B.; Boudlal A.; Aboutajdine D.",
+    "Title": "Modeling of video sequences by Gaussian mixture: Application in motion estimation by block matching method",
+    "Year": 2010,
+    "Source title": "Eurasip Journal on Advances in Signal Processing"
+  },
+  {
+    "Authors": "Laanaya H.; Martin A.; Aboutajdine D.; Khenchaf A.",
+    "Title": "Support vector regression of membership functions and belief functions - Application for pattern recognition",
+    "Year": 2010,
+    "Source title": "Information Fusion"
+  },
+  {
+    "Authors": "Taoufiki M.; Adib A.; Aboutajdine D.",
+    "Title": "A new behavior of higher order blind source separation methods for convolutive mixture",
+    "Year": 2010,
+    "Source title": "Digital Signal Processing: A Review Journal"
+  },
+  {
+    "Authors": "Zytoune O.; Fakhri Y.; Aboutajdine D.",
+    "Title": "A fairly balanced clustering algorithm for routing in wireless sensor networks",
+    "Year": 2010,
+    "Source title": "Sensor Review"
+  },
+  {
+    "Authors": "El Aroussi M.; Ghouzali S.; El Hassouni M.; Rziza M.; Aboutajdine D.",
+    "Title": "Multi-stage fusion of local and global features based classification for face recognition",
+    "Year": 2010,
+    "Source title": "International Journal of Tomography and Statistics"
+  },
+  {
+    "Authors": "Zytoune O.; El Aroussi M.; Aboutajdine D.",
+    "Title": "A uniform balancing energy routing protocol for wireless sensor networks",
+    "Year": 2010,
+    "Source title": "Wireless Personal Communications"
+  },
+  {
+    "Authors": "Ghennioui H.; Thirion-Moreau N.; Moreau E.; Aboutajdine D.",
+    "Title": "Gradient-based joint block diagonalization algorithms: Application to blind separation of FIR convolutive mixtures",
+    "Year": 2010,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "Amine A.; Rziza M.; Aboutajdine D.",
+    "Title": "Feature selection based on genetic algorithm compared to mutual information: A case study for face recognition",
+    "Year": 2010,
+    "Source title": "International Journal of Tomography and Statistics"
+  },
+  {
+    "Authors": "Minaoui K.; Chonavel T.; Nsiri B.; Aboutajdine D.",
+    "Title": "Quadrature formula for sampled functions",
+    "Year": 2010,
+    "Source title": "World Academy of Science, Engineering and Technology"
+  },
+  {
+    "Authors": "Idrissi N.; Martinez J.; Aboutajdine D.",
+    "Title": "Bridging the semantic gap for texture-based image retrieval and navigation",
+    "Year": 2009,
+    "Source title": "Journal of Multimedia"
+  },
+  {
+    "Authors": "Ben Amor B.; Drira H.; Ballihi L.; Srivastava A.; Daoudi M.",
+    "Title": "An experimental illustration of 3D facial shape analysis under facial expressions",
+    "Year": 2009,
+    "Source title": "Annales des Telecommunications/Annals of Telecommunications"
+  },
+  {
+    "Authors": "Chaouki B.; Bouda B.; Masmoudi Lh.; Aboutajdine D.",
+    "Title": "Estimation of motion parameters using 2D lines without correspondences based on virtual electric potential model",
+    "Year": 2009,
+    "Source title": "Physical and Chemical News"
+  },
+  {
+    "Authors": "Amehraye A.; Pastor D.; Tamtaoui A.; Aboutajdine D.",
+    "Title": "From maskee to audible noise in perceptual speech enhancement",
+    "Year": 2009,
+    "Source title": "World Academy of Science, Engineering and Technology"
+  },
+  {
+    "Authors": "Khafaji A.; Saadane R.; El Abbadi J.; Belkasmi M.; Farchi A.",
+    "Title": "Impact of human bodies on millimetric bands propagation using ray tracing technique",
+    "Year": 2009,
+    "Source title": "Physical and Chemical News"
+  },
+  {
+    "Authors": "Sabri K.; El Badaoui M.; Guillet F.; Adib A.; Aboutajdine D.",
+    "Title": "A frequency domain-based approach for blind MIMO system identification using second-order cyclic statistics",
+    "Year": 2009,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "Amine A.; Ghouzali S.; Rziza M.; Aboutajdine D.",
+    "Title": "An improved method for face recognition based on SVM in frequency domain",
+    "Year": 2009,
+    "Source title": "Machine Graphics and Vision"
+  },
+  {
+    "Authors": "Idbraim S.; Ducrot D.; Mammass D.; Aboutajdine D.",
+    "Title": "An unsupervised classification using a novel ICM method with constraints for land cover mapping from remote sensing imagery",
+    "Year": 2009,
+    "Source title": "International Review on Computers and Software"
+  },
+  {
+    "Authors": "Bouda B.; Masmoudi Lh.; Aboutajdine D.",
+    "Title": "CVVEFM: Cubical voxels and virtual electric field model for edge detection in color images",
+    "Year": 2008,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "Elhoussaine Z.; Aboutajdine D.; Abderrahim E.Q.",
+    "Title": "Algorithms for data warehouse design to enhance decision-making",
+    "Year": 2008,
+    "Source title": "WSEAS Transactions on Computer Research"
+  },
+  {
+    "Authors": "El Fkihi S.; Daoudi M.; Aboutajdine D.",
+    "Title": "The mixture of K-Optimal-Spanning-Trees based probability approximation: Application to skin detection",
+    "Year": 2008,
+    "Source title": "Image and Vision Computing"
+  },
+  {
+    "Authors": "Idbraim S.; Mammass D.; Aboutajdine D.; Ducrot D.",
+    "Title": "An automatic system for urban road extraction from satellite and aerial images",
+    "Year": 2008,
+    "Source title": "WSEAS Transactions on Signal Processing"
+  },
+  {
+    "Authors": "Essannouni F.; Thami R.O.H.; Aboutajdine D.; Salam A.",
+    "Title": "Adjustable SAD matching algorithm using frequency domain",
+    "Year": 2007,
+    "Source title": "Journal of Real-Time Image Processing"
+  },
+  {
+    "Authors": "Essannouni F.; Thami R.O.H.; Aboutajdine D.; Salam A.",
+    "Title": "Fast L4 template matching using frequency domain",
+    "Year": 2007,
+    "Source title": "Electronics Letters"
+  },
+  {
+    "Authors": "Nsiri B.; Chonavel T.; Boucher J.-M.; Nouzé H.",
+    "Title": "Blind submarine seismic deconvolution for long source wavelets",
+    "Year": 2007,
+    "Source title": "IEEE Journal of Oceanic Engineering"
+  },
+  {
+    "Authors": "Essannouni F.; Haj Thami R.O.; Aboutajdine D.; Salam A.",
+    "Title": "Simple noncircular correlation method for exhaustive sum square difference matching",
+    "Year": 2007,
+    "Source title": "Optical Engineering"
+  },
+  {
+    "Authors": "Taoufiki M.; Adib A.; Aboutajdine D.",
+    "Title": "Blind separation of any source distributions via high-order statistics",
+    "Year": 2007,
+    "Source title": "Signal Processing"
+  },
+  {
+    "Authors": "Jbari A.; Adib A.; Aboutajdine D.",
+    "Title": "Blind audio separation and content analysis in the time-scale domain",
+    "Year": 2007,
+    "Source title": "International Journal of Semantic Computing"
+  },
+  {
+    "Authors": "Ghennioui H.; Fadaili E.M.; Thirion-Moreau N.; Adib A.; Moreau E.",
+    "Title": "A nonunitary joint block diagonalization algorithm for blind separation of convolutive mixtures of sources",
+    "Year": 2007,
+    "Source title": "IEEE Signal Processing Letters"
+  },
+  {
+    "Authors": "Essannouni L.; Ibn-Elhaj E.; Aboutajdine D.",
+    "Title": "Fast cross-spectral image registration using new robust correlation",
+    "Year": 2006,
+    "Source title": "Journal of Real-Time Image Processing"
+  }
+]

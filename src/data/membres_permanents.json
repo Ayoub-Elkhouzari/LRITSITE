@@ -1,0 +1,318 @@
+[
+    {
+<<<<<<< HEAD
+      "Nom": "Khalid MINAOUI",
+      "Etablissement": "FSR",
+=======
+      "Nom": "KHALID MINAOUI",
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=55312226700"
+    },
+    {
+      "Nom": "SALMA MOULINE",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=24477743900"
+    },
+    {
+      "Nom": "MOULAY DRISS RAHMANI",
+      "Etablissement": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56606818100"
+    },
+    {
+      "Nom": "HICHAM LAANAYA",
+      "Etablissement": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=14058152800"
+    },
+    {
+      "Nom": "MOHAMMED RZIZA",
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=24477743900"
+    },
+    {
+      "Nom": "Mohamed Ouadou",
+      "Etablissment": "FSR",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Mohammed Abbad",
+      "Etablissment": "FSR",
+      "Scopus": ""
+    },
+    {
+      "Nom": "MOULAY DRISS RAHMANI",
+      "Etablissment": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56606818100"
+    },
+    {
+      "Nom": "Mohamed EL Marraki",
+      "Etablissment": "FSR",
+      "Scopus": ""
+    },
+    {
+      "Nom": "HICHAM LAANAYA",
+      "Etablissment": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=14058152800"
+    },
+    {
+      "Nom": "Omar MEGZARI",
+      "Etablissment": "FSR",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Hussein Youlal",
+      "Etablissment": "FSR",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Malika Janati-Idrissi",
+      "Etablissment": "FSR",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Rachid Oulad Haj Thami",
+      "Etablissment": "ENSIAS",
+      "Scopus": ""
+    },
+    {
+      "Nom": "MOHAMMED RZIZA",
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=15064842900"
+    },
+    {
+      "Nom": "KHADIJA RHOULAMI",
+<<<<<<< HEAD
+      "Etablissement": "FLSH",
+=======
+      "Etablissment": "FLSH",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56891755100"
+    },
+    {
+      "Nom": "MOHAMMED EL HASSOUNI",
+<<<<<<< HEAD
+      "Etablissement": "FLSH",
+=======
+      "Etablissment": "FLSH",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=55943083400"
+    },
+    {
+      "Nom": "MOHAMMED EL HAZITI",
+<<<<<<< HEAD
+      "Etablissement": "EST-Salé",
+=======
+      "Etablissment": "EST-Salé",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=55349902400"
+    },
+    {
+      "Nom": "MOHAMED OUMSIS",
+<<<<<<< HEAD
+      "Etablissement": "EST-Salé",
+=======
+      "Etablissment": "EST-Salé",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=24448607100"
+    },
+    {
+      "Nom": "AHMED HAMMOUCH",
+<<<<<<< HEAD
+      "Etablissement": "ENSET",
+=======
+      "Etablissment": "ENSET",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=57217110704"
+    },
+    {
+      "Nom": "BELAID AHIOD",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=55643361600"
+    },
+    {
+      "Nom": "RACHID ALAOUI",
+<<<<<<< HEAD
+      "Etablissement": "EST-Salé",
+=======
+      "Etablissment": "EST-Salé",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=57214771728"
+    },
+    {
+      "Nom": "ABDERRAHMAN MAAOUNI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56077262700"
+    },
+    {
+      "Nom": "MOHAMMED MAJID HIMMI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=12244710700"
+    },
+    {
+      "Nom": "EL HOUSSAINE EL RHALEB",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=6504391076"
+    },
+    {
+      "Nom": "LAHOUCINE BALLIHI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=25421085900"
+    },
+    {
+      "Nom": "AHMED EL MALIANI DRSSI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=36801583400"
+    },
+    {
+      "Nom": "YOUNES KARFA BEKALI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=55670090600"
+    },
+    {
+      "Nom": "DOUNIA LOTFI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=43661552400"
+    },
+    {
+      "Nom": "MOURAD OUADOU",
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=43661552400"
+    },
+    {
+      "Nom": "Chouaib MOJAHDI",
+      "Etablissment": "Institut Scientifique-Rabat",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Sanaa ELFKIHI",
+      "Etablissment": "ENSIAS",
+      "Scopus": ""
+    },
+    {
+      "Nom": "MOURAD OUADOU",
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=57191328221"
+    },
+    {
+      "Nom": "SOUMAYA HOUARI",
+<<<<<<< HEAD
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": ""
+    },
+    {
+      "Nom": "ABDELHAK MAHMOUDI",
+<<<<<<< HEAD
+      "Etablissement": "ENS",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=35092918400"
+    },
+    {
+      "Nom": "HANAE BELMAJDOUB",
+      "Etablissement": "FSJES",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=59224989600"
+    },
+    {
+      "Nom": "SAFAE CHERDAL",
+      "Etablissement": "FSR",
+=======
+      "Etablissment": "ENS",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=35092918400"
+    },
+    {
+      "Nom": "SOUFIANA MEKOUAR",
+      "Etablissment": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56629015300"
+    },
+    {
+      "Nom": "HANAE BELMAJDOUB",
+      "Etablissment": "FSJES",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=59224989600"
+    },
+    {
+      "Nom": "My Ahmed FAQIHI",
+      "Etablissment": "ENSIAS",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Abdelghafar TOUJGANI",
+      "Etablissment": "ENSIAS",
+      "Scopus": ""
+    },
+    {
+      "Nom": "Abdelali LASFAR",
+      "Etablissment": "EST-Salé",
+      "Scopus": ""
+    },
+    {
+      "Nom": "SAFAE CHERDAL",
+      "Etablissment": "FSR",
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=55943083400"
+    },
+    {
+      "Nom": "HAJAR SAHBANI",
+<<<<<<< HEAD
+      "Etablissement": "FSJES-Salé",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56038453900"
+    },
+    {
+      "Nom": "SOUFIANA MEKOUAR",
+      "Etablissement": "FSR",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56629015300"
+    },
+    {
+      "Nom": "ZEYNEB BELGANCHE",
+      "Etablissement": "ENSAM",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56517005000"
+    }
+  ]
+=======
+      "Etablissment": "FSJES-Salé",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56038453900"
+    },
+    {
+      "Nom": "ZEYNEB BELGANCHE",
+      "Etablissment": "ENSAM",
+      "Scopus": "https://www.scopus.com/authid/detail.uri?authorId=56517005000"
+    }
+  ]
+  
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa

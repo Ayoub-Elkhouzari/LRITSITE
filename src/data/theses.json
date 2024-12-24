@@ -1,0 +1,914 @@
+[
+  {
+<<<<<<< HEAD
+=======
+    "nom": "Mohamed Nabil SAIDI",
+    "intitule": "Classification & Fusion de l'Information : Application au traitement d'image et aux systèmes biométriques",
+    "annee": 2015
+  },
+  {
+    "nom": "Khalid MINAOUI",
+    "intitule": "Contributions aux traitements du signal et d'image : Méthodes algébriques multilinéaires pour la séparation aveugle de sources, traitement du signal Radar, segmentation de l'upwelling en utilisant les images TSM",
+    "annee": 2014
+  },
+  {
+    "nom": "Ouadoudi ZYTOUNE",
+    "intitule": "Contribution à la qualité de service dans les réseaux sans fil",
+    "annee": 2014
+  },
+  {
+    "nom": "Rajaa SAIDI",
+    "intitule": "Contribution à l'ingénierie des processus métiers dans les systèmes d'information",
+    "annee": 2014
+  },
+  {
+    "nom": "Rachid SAADANE",
+    "intitule": "Canaux large bande : Application aux réseaux de capteurs sans fil et réseau mobile",
+    "annee": 2014
+  },
+  {
+    "nom": "Sanaa EL FKIHI",
+    "intitule": "Traitement des Données Multimédias et Amélioration des Performances dans les Réseaux de Capteurs sans Fils",
+    "annee": 2014
+  },
+  {
+    "nom": "Mohamed EL HAZITI",
+    "intitule": "Protection des données : du watermarking aux systèmes biométriques",
+    "annee": 2014
+  },
+  {
+    "nom": "Mohammed EL HASSOUNI",
+    "intitule": "Modélisation statistique des images et des objets 3D : Contributions en reconnaissance, qualité et débruitage",
+    "annee": 2012
+  },
+  {
+    "nom": "Abdeljalil ELOUARDIGHI",
+    "intitule": "Sélection de variables pertinentes dans un processus d'extraction de connaissance à partir grande base de données",
+    "annee": 2011
+  },
+  {
+    "nom": "Abderrahim EL QADI",
+    "intitule": "Recherche d'Information, et Optimisation des requêtes dans les entrepôts de données",
+    "annee": 2010
+  },
+  {
+    "nom": "Benayad NSIRI",
+    "intitule": "Contributions au développement des algorithmes avancés pour les systèmes de télécommunication",
+    "annee": 2010
+  },
+  {
+    "nom": "Mohammed RZIZA",
+    "intitule": "Méthodes de classification : Application à la détection, reconnaissance du visage et à l'indexation de document audio",
+    "annee": 2010
+  },
+  {
+    "nom": "Elhassane IBN-ELHAJ",
+    "intitule": "Traitement et analyse de la vidéo : restauration, reconnaissance de visage et protection par",
+    "annee": 2006
+  },
+  {
+    "nom": "Ahmed KADA",
+    "intitule": "Contribution aux techniques et algorithmes évolutifs de traitement de l'information et de communication : application en télécommunications, sécurité et réseaux",
+    "annee": 2007
+  },
+  {
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
+    "nom": "BENABDLLAH Fatima-zahra",
+    "intitule": "Machine and Deep learning-based Approaches for autism Spectrum Discover Identification",
+    "annee": 2023
+  },
+  {
+    "nom": "BELMAJDOUB Hanae",
+    "intitule": "Artificial Intelligence techniques for automatic segmentation and characterization of the coastal upwelling system",
+    "annee": 2023
+  },
+  {
+    "nom": "MEDDAD Majdouline",
+    "intitule": "Deep learning pour l’identification faciale: contributions a l’amelioration de la fiabilité et l’etendue de l’utilisation",
+    "annee": 2023
+  },
+  {
+    "nom": "ABOUTAIBA Ibrahim",
+    "intitule": "Conception automatique des méta-heuristiques parallèles",
+    "annee": 2023
+  },
+  {
+    "nom": "AMGHAR Souad",
+    "intitule": "Contributions a l’intégration des données volumineuses dans le contexte de big data",
+    "annee": ""
+  },
+  {
+    "nom": "MAFAMANE Rachid",
+    "intitule": "Protocole anti-collision pour la couche MAC dans les réseaux de capteurs-RFID",
+    "annee": 2023
+  },
+  {
+    "nom": "NACER Yassine",
+    "intitule": "",
+    "annee": 2022
+  },
+  {
+    "nom": "YASSINE BELAICHE",
+    "intitule": "Preparation et caracterisation des nanoparticules de ferrites pour applications dans les antennes miniatures",
+    "annee": 2022
+  },
+  {
+    "nom": "IBTISSAME AL SAIDI",
+    "intitule": "Machine Learning appliquée a l’analyse de données texturées en se basant sur les motifs binaires locaux",
+    "annee": 2022
+  },
+  {
+    "nom": "SAID BENLAKHDAR",
+    "intitule": "Modelisation statistique par modeles hierarchiques et melanges de distributions mathematiques",
+    "annee": 2022
+  },
+  {
+    "nom": "ABDERRAHMA E EL METTITI",
+    "intitule": "Contributions à l’optimisation des ressources spectrales dans la sixième génération",
+    "annee": 2022
+  },
+  {
+    "nom": "BOTHAINA TOUIJER",
+    "intitule": "Analyse formelle des protocoles de communications des reseaux de capteurs sans fils corporels",
+    "annee": 2022
+  },
+  {
+    "nom": "Ayoub Jibouni",
+    "intitule": "Link prediction using local structures, machine learning classifiers and node centralities in large scale complex Networks",
+    "annee": 2022
+  },
+  {
+    "nom": "Fatima-Zahra El biach",
+    "intitule": "Data science : Deep learning for multi-purpose applications",
+    "annee": 2022
+  },
+  {
+    "nom": "Zineb EL Abidi",
+    "intitule": "Fusing multimodal satellite information for automatic detecting and studying coastal upwelling system",
+    "annee": 2022
+  },
+  {
+    "nom": "Khaoula Karroum",
+    "intitule": "Algorithmes d'optimisation pour la surveillance et l'estimation de la pollution de l'air",
+    "annee": 2021
+  },
+  {
+    "nom": "Said Iazzi",
+    "intitule": "L'analyse morphologique des mots arabes à base des schèmes de surface et de graphes",
+    "annee": 2021
+  },
+  {
+    "nom": "MAROUANE NAZIH",
+    "intitule": "Les méthodes d’optimisation proximal pour la décomposition canonique polyadique : Implémentations algorithmiques et applications au traitement de signaux",
+    "annee": 2021
+  },
+  {
+    "nom": "KHADIJA EL GAJOUI",
+    "intitule": "La reconnaissance optique des caractères cas de la langue amazighe",
+    "annee": 2021
+  },
+  {
+    "nom": "ABDERRAZAK IAZZI",
+    "intitule": "Contribution à la détection de chute pour les personnes âgées par vidéosurveillance intelligente : l’analyse de la posture et de l’activité humaine",
+    "annee": 2021
+  },
+  {
+    "nom": "KAOUTAR FARHANE",
+    "intitule": "Conception et optimisation des formes d’ondes pour les radars : simulations et application au radars d’aide à la conduite automobile",
+    "annee": 2021
+  },
+  {
+    "nom": "SOUFIANE FAIEQ",
+    "intitule": "AS3 : Une méthode de conception des systèmes adaptatifs bases sur les services pour les environnements intelligents",
+    "annee": 2021
+  },
+  {
+    "nom": "OUSSAMA ZEGLAZI",
+    "intitule": "Mise en correspondance strioscopique pour les systèmes de transport intelligents",
+    "annee": 2021
+  },
+  {
+    "nom": "MEHDI SRIFI",
+    "intitule": "A content-Based recommender system: Application in the context of Arabic langage",
+    "annee": 2021
+  },
+  {
+    "nom": "ANISSE KHALD",
+    "intitule": "Détection et suivi d’objet dans une séquence d’images omnidirectionnelles",
+    "annee": 2021
+  },
+  {
+    "nom": "AYOUB LAHMIDI",
+    "intitule": "Protection des systèmes de vérification biométrique contributions a la protection des modèles des empreinte digitales",
+    "annee": 2021
+  },
+  {
+    "nom": "ZINEB LAMGHARI",
+    "intitule": "Business process improvement using process mining techniques",
+    "annee": 2021
+  },
+  {
+    "nom": "ADIL AZNAG",
+    "intitule": "Étude comparative de la structure anatomique du bois de certaines essences forestières naturelles du rif et du moyen atlas et optimisation de la méthode de sciage de la loupe de thuya",
+    "annee": 2021
+  },
+  {
+    "nom": "BAHAE ABIDI",
+    "intitule": "Distribution de traitement dans les reseaux de capteurs sans fils",
+    "annee": 2021
+  },
+  {
+    "nom": "Naima Bousnina",
+    "intitule": "Biometric authentication systems' security: Robustness against template databaseand spoofing attacks",
+    "annee": 2021
+  },
+  {
+    "nom": "Naima OTBERDOUT",
+    "intitule": "Deep Manifold-valued Representations forDynamic Facial Expression Analysis and Synthesis",
+    "annee": 2021
+  },
+  {
+    "nom": "Omar El Midaoui",
+    "intitule": "Reformulation sémantique des requêtes pour larecherche d'informations géographiques sur le Web: Usage de taxonomies, l'analyse sémantique latente, et des règles d'associations générées dans un contexte BigData",
+    "annee": 2021
+  },
+  {
+    "nom": "Ahmed Mejdoubi",
+    "intitule": "Systèmes de Transport Intelligents Coopératifs : Contribution aux problèmes de gestion du trafic routier",
+    "annee": 2021
+  },
+  {
+    "nom": "Ibtissame Bouhassoune",
+    "intitule": "La technologie UHF RFID for des applications biomédicales : Conception et des tags etoptimisation par des algorithmesmétheuristique",
+    "annee": 2021
+  },
+  {
+    "nom": "Jalil Elhassouni",
+    "intitule": "Towards ontology-enhanced knowledge-based systems using ontology design patterns: application in credit risk management",
+    "annee": 2021
+  },
+  {
+    "nom": "Safaa Azzakhnini",
+    "intitule": "Approches basées sur la fusion multimodale pour les systèmes multi-capteurs : de l'amélioration de la performance vers les préoccupations éthiques",
+    "annee": 2020
+  },
+  {
+    "nom": "Btissam Zerhari",
+    "intitule": "Contributions au prétraitement de données : élimination du bruit de classe et réduction de dimension",
+    "annee": 2020
+  },
+  {
+    "nom": "Khawla Asmi",
+    "intitule": "La détection des communautés dans les réseaux sociaux",
+    "annee": 2020
+  },
+  {
+    "nom": "Fouad Yakoubi",
+    "intitule": "Effective Methods for evaluating the Complexity of Compound Graphs",
+    "annee": 2020
+  },
+  {
+    "nom": "Noussaima El khattabi",
+    "intitule": "Étude de la complexité de quelques graphes planaires: graphes symétriques",
+    "annee": 2020
+  },
+  {
+    "nom": "Ilyass Abouelaziz",
+    "intitule": "Évaluation sans référence de la qualité des maillages 3D : Exploitation de l'apprentissage profond et la saillance visuelle",
+    "annee": 2020
+  },
+  {
+    "nom": "Mehdi El krari",
+    "intitule": "Adaptation de Métaheuristiques pour résoudre des Problèmes d'Optimisation Combinatoire liés aux Transports",
+    "annee": 2019
+  },
+  {
+    "nom": "Abdessamad Tafraouti",
+    "intitule": "Analyse fractale des images X-ray de l'os trabeculaire pour le diagnostic de l'ostéoporose",
+    "annee": 2019
+  },
+  {
+    "nom": "Nisrine Ibadah",
+    "intitule": "Approches intelligentes pour une modélisation réaliste de la mobilité dans des réseaux mobiles sans fil",
+    "annee": 2019
+  },
+  {
+    "nom": "Elarbi El alaouy",
+    "intitule": "Contribution à la conception d'un système informatique d'aide à la décision centré sur une approche d'alliance SMA et AC : Application à la simulation de la mobilitérésidentielle",
+    "annee": 2019
+  },
+  {
+    "nom": "Nabila Zrira",
+    "intitule": "Contribution to the development of algorithms based Deep Learning architectures for mobile robotic's applications",
+    "annee": 2019
+  },
+  {
+    "nom": "Imad Iala",
+    "intitule": "Contributions aux protocoles MAC déterministes dédiés aux Réseaux de Capteurs Sans Fil",
+    "annee": 2019
+  },
+  {
+    "nom": "Badr Ait Hammou",
+    "intitule": "Distributed Intelligent Systems based on Scalable Machine Learning and Deep Learning Techniques for Big Data Analytics: Application to Recommendation Systems and Real-Time Social Media Analysis",
+    "annee": 2019
+  },
+  {
+    "nom": "Meryam Zeryouh",
+    "intitule": "Efficient computational methods for two distance-based topological indices and applications on large networks",
+    "annee": 2019
+  },
+  {
+    "nom": "Marwan Lakhal",
+    "intitule": "Hydrogen storage properties of Magnesium hydride MgH2 by ab initio calculations and kinetic Monte Carlo simulations (KMC)",
+    "annee": 2019
+  },
+  {
+    "nom": "Meryem Talha",
+    "intitule": "Analyse Syntactico-sémantique automatique de la langue Amazighe",
+    "annee": 2019
+  },
+  {
+    "nom": "El Aouni Anass",
+    "intitule": "Lagrangian coherent structures and physical processes of coastal upwelling",
+    "annee": 2019
+  },
+  {
+    "nom": "Raihana Mokhlissi",
+    "intitule": "The analysis of the structural properties and the spanning trees entropy of complex networks",
+    "annee": 2019
+  },
+  {
+    "nom": "Abdessamad Tafraouti",
+    "intitule": "Analyse fractale des images X-ray de l'os trabeculaire pour le diagnostic de l'ostéoporose",
+    "annee": 2018
+  },
+  {
+    "nom": "Mourad Ouadou",
+    "intitule": "Amélioration des performances dans les réseaux de capteurs sans fil: Du contrôle de topologie à l'intégration du RFID",
+    "annee": 2018
+  },
+  {
+    "nom": "Safae Cherdal",
+    "intitule": "Contribution à la modélisation et à l'analyse du comportement des systèmes complexes : Cas d'un système biologique",
+    "annee": 2018
+  },
+  {
+    "nom": "Asmae El Ghazi",
+    "intitule": "Contribution au routage dans les réseaux de capteurs sans fil en utilisant les métaheuristiques",
+    "annee": 2018
+  },
+  {
+    "nom": "Rabii El Ghorfi",
+    "intitule": "Modélisation et évaluation de la gouvernance des systèmes d'information via la théorie des options réelles : Mise en place d'une plateforme de simulation des investissements stratégiques",
+    "annee": 2018
+  },
+  {
+    "nom": "Hajar Lazar",
+    "intitule": "Modélisation et Simulation de la Mobilité Urbaine du Trafic Routier",
+    "annee": 2018
+  },
+  {
+    "nom": "Achraf Lyazidi",
+    "intitule": "ONDAR et DAR-DSL : Une Ontologie et un DSL pour la modélisation des maisons intelligentes",
+    "annee": 2018
+  },
+  {
+    "nom": "Asmae Ait Mansour",
+    "intitule": "L'optimisation contextuelle du handover dans les réseaux sans fil hétérogènes : technique de supervision et théorie de jeux",
+    "annee": 2018
+  },
+  {
+    "nom": "Meryam El Mouhtadi",
+    "intitule": "Recherche et Indexation de l'Image Biométrique par Contenu Multimédia. Application à l'Empreinte Digitale",
+    "annee": 2018
+  },
+  {
+    "nom": "Salwa Lagdali",
+    "intitule": "Statistiques d'ordre supérieur pour l'analyse de la texture sous les contraintes du bruit et de non Gaussianité",
+    "annee": 2018
+  },
+  {
+    "nom": "Safae Cherdal",
+    "intitule": "Contribution à la modélisation et à l'analyse du comportement des systèmes complexes : Cas d'un système biologique",
+    "annee": 2018
+  },
+  {
+    "nom": "Soufiana Mekouar",
+    "intitule": "Analysis and Modeling of Shared Contents and their Impact on Users Behavior in Online Social Networks",
+    "annee": 2018
+  },
+  {
+    "nom": "Khalid Fakhar",
+    "intitule": "Contributions au problème de fusion de scores dans les systèmes de reconnaissance multi-biométriques",
+    "annee": 2017
+  },
+  {
+    "nom": "Hamza Kamal Idrissi",
+    "intitule": "Contributions à la sécurité des réseaux informatiques à l'aide des IDS comportementaux, les politiques de pare-feu ainsi que les algorithmes de stockage et d'équilibrage de charge",
+    "annee": 2017
+  },
+  {
+    "nom": "Youssef Bendraou",
+    "intitule": "Détection des changements de plans et extraction d'images représentatives dans une séquence vidéo",
+    "annee": 2017
+  },
+  {
+    "nom": "Sidi Ahmed Ezzahidi",
+    "intitule": "Incentive Mechanisms for Self-organized Delay tolerant networks: An Algorithmic Game theory perspective",
+    "annee": 2017
+  },
+  {
+    "nom": "Maroua Drissi",
+    "intitule": "A Multi Criteria Real Time Network Selection Framework in Heterogeneous Wireless Environment for 5G systems: Application for Mobile and Vehicular Heterogeneous Networks",
+    "annee": 2017
+  },
+  {
+    "nom": "Said Ousguine",
+    "intitule": "Reconstruction des images à haute-résolution",
+    "annee": 2017
+  },
+  {
+    "nom": "Mounir Omari",
+    "intitule": "Vers une mesure perceptuelle pour l'évaluation de la qualité des images couleur",
+    "annee": 2017
+  },
+  {
+    "nom": "Abdelali SAIDI",
+    "intitule": "Un système d'agents mobiles pour la détection des attaques DoS/DDoS dans le Cloud Computing",
+    "annee": 2016
+  },
+  {
+    "nom": "Btihal El Ghali",
+    "intitule": "Modèles Contextuels pour la Recommandation et l'Expansion de Requêtes en Recherche d'Information",
+    "annee": 2016
+  },
+  {
+    "nom": "Brahim ELMAROUD",
+    "intitule": "Analyse des performances et amélioration des systèmes FBMC dans les transmissions sans fil non linéaires et asynchrones",
+    "annee": 2016
+  },
+  {
+    "nom": "Imane DBIBIH",
+    "intitule": "Contribution à l'Optimisation de la Couche MAC dans les Réseaux de Capteurs Sans Fil",
+    "annee": 2016
+  },
+  {
+    "nom": "Brahim AKBIL",
+    "intitule": "Optimisation des performances des techniques d'accès multiple par l'utilisation des systèmes chaotiques et par regroupement des utilisateurs",
+    "annee": 2016
+  },
+  {
+    "nom": "Hamd AIT ABDELALI",
+    "intitule": "Suivi d'Objet, Génération de Trajectoires et Détection d'Objet dans une Séquence Vidéo",
+    "annee": 2016
+  },
+  {
+    "nom": "Meryem BENYOUSSEF",
+    "intitule": "Tatouage des images médicales basé sur la cryptographie visuelle",
+    "annee": 2016
+  },
+  {
+    "nom": "Sahbani Hajar",
+    "intitule": "",
+    "annee": 2016
+  },
+  {
+    "nom": "Noureddine LAKOUARI",
+    "intitule": "Étude du comportement du trafic routier dans les carrefours et les routes à accès réglementé : modèles d'automates cellulaires",
+    "annee": 2015
+  },
+  {
+    "nom": "Ali JORIO",
+    "intitule": "Le Clustering basé sur la Classification Spectrale pour l'Optimisation d'Energie dans les Réseaux de Capteurs Sans Fil Homogènes",
+    "annee": 2015
+  },
+  {
+    "nom": "Noureddine ASSAD",
+    "intitule": "Optimisation du déploiement des réseaux de capteurs sans fil couverture de la zone de surveillance et connectivité du réseau dans une application de détection d'intrusion",
+    "annee": 2015
+  },
+  {
+    "nom": "Alaaeddine YOUSFI",
+    "intitule": "Smart Business Process Improvement for Process-Aware Information Systems",
+    "annee": 2015
+  },
+  {
+    "nom": "Hicham BADRI",
+    "intitule": "Méthodes parcimonieuses et invariantes d'échelle en traitement d'images",
+    "annee": 2015
+  },
+  {
+    "nom": "Saïd OUATIK EL ALAOU",
+    "intitule": "Approches statistique et sémantique pour l'accès à l'information dans les collections textuelles en langue arabe",
+    "annee": 2015
+  },
+  {
+    "nom": "Maryam LAFKIH",
+    "intitule": "Analyse de la Sécurité des Cryptosystèmes Biométriques",
+    "annee": 2015
+  },
+  {
+    "nom": "Ismail BENNIS",
+    "intitule": "Contribution aux protocoles de routage dans les réseaux de capteurs sans fil : Application à la supervision agricole",
+    "annee": 2015
+  },
+  {
+    "nom": "Ayoub TAMIM",
+    "intitule": "Segmentation et classification des images satellitaires : application à la détection des zones d'upwelling côtier marocain et mise en place d'un logiciel de suivi spatiotemporel",
+    "annee": 2015
+  },
+  {
+    "nom": "EL KHATTABI Hasnaa",
+    "intitule": "Mesure de la Qualité de la Vidéo par les Réseaux de Neurones",
+    "annee": 2015
+  },
+  {
+    "nom": "Aziz OUAARAB",
+    "intitule": "Résolution de Problèmes d'Optimisation Combinatoire par des Métaheuristiques Inspirées de la Nature : Recherche du Coucou via les Vols de Lévy",
+    "annee": 2015
+  },
+  {
+    "nom": "Othmane ALAOUI FDILI",
+    "intitule": "Optimisation multicritères de la qualité de service dans les réseaux de capteurs multimédia sans fil",
+    "annee": 2015
+  },
+  {
+    "nom": "Tariq LAJOUAD",
+    "intitule": "Suivi d'objet mobile dans les séquences vidéo moyennant les métaheuristiques",
+    "annee": 2015
+  },
+  {
+    "nom": "Nawal ALIOUA",
+    "intitule": "Extraction et analyse des caractéristiques faciales : Application à l'hypovigilance chez le conducteur",
+    "annee": 2015
+  },
+  {
+    "nom": "Rkia AOUINATOU",
+    "intitule": "Le chiffrement basé sur l'identité : IBE, proposition et mise en œuvre",
+    "annee": 2015
+  },
+  {
+    "nom": "Awatif ROUIJEL",
+    "intitule": "Méthodes algébriques multilinéaires pour la séparation aveugle de sources : Algorithmes, simulations et application aux systèmes de communication radio mobile",
+    "annee": 2015
+  },
+  {
+    "nom": "Anouar DARIF",
+    "intitule": "Contributions à l'amélioration des performances des réseaux de capteurs sans fil à base d'IR-UWB",
+    "annee": 2014
+  },
+  {
+    "nom": "Fatima Zahra BENAMAR",
+    "intitule": "Estimation de temps à collision en vision catadioptrique",
+    "annee": 2014
+  },
+  {
+    "nom": "Samir BARA",
+    "intitule": "Analyse et segmentation des images médicales : Application aux images IRM cérébrales en vue de la détection des tumeurs",
+    "annee": 2014
+  },
+  {
+    "nom": "Chouaib MOUJAHDI",
+    "intitule": "Protection des systèmes de sécurité biométriques : contributions à la protection des modèles biométriques",
+    "annee": 2014
+  },
+  {
+    "nom": "Zakaria MOHAMMADI",
+    "intitule": "Modélisation du canal Ultra-Large Bande et simulation des performances dans les réseaux corporels sans fil",
+    "annee": 2014
+  },
+  {
+    "nom": "Dounia LOTFI",
+    "intitule": "Évaluation du nombre d'arbres couvrants d'un réseau planaire",
+    "annee": 2014
+  },
+  {
+    "nom": "Mohamed ESSALIH",
+    "intitule": "L'étude des indices topologiques, leurs applications en QSAR/QSPR et leurs corrélations aux représentations moléculaires «Plerograph» et Kenograph",
+    "annee": 2013
+  },
+  {
+    "nom": "EL ABDELLAOUI Said",
+    "intitule": "Étude et analyse de la performance du système coopératif «MIMO-Virtuel» pour les réseaux de capteurs sans fil",
+    "annee": 2013
+  },
+  {
+    "nom": "Yann BEN MAÏSSA",
+    "intitule": "Contribution à la modélisation et à la vérification de réseaux de capteurs sans fil",
+    "annee": 2013
+  },
+  {
+    "nom": "Drissi el Maliani Ahmed",
+    "intitule": "Modélisation stochastique des images texturées",
+    "annee": 2013
+  },
+  {
+    "nom": "Fadoua BAHJA",
+    "intitule": "Détection du fondamental de la parole en temps réel : application aux voix pathologiques",
+    "annee": 2013
+  },
+  {
+    "nom": "Asmâa ELOUERKHAOUI",
+    "intitule": "Conception et mise en œuvre de Méta-moteurs de recherche dédiées",
+    "annee": 2013
+  },
+  {
+    "nom": "Abdelkaher AIT ABDELOUAHAD",
+    "intitule": "Mesures de qualité avec référence réduite basées sur les statistiques des scènes naturelles",
+    "annee": 2013
+  },
+  {
+    "nom": "Ayoub AIT LAHCEN",
+    "intitule": "Développement d'Applications à Base de Composants avec une Approche Centrée sur les Données et dans une Architecture Orientée Service et Pair-à-Pair : Spécification, Analyse et Intergiciel",
+    "annee": 2012
+  },
+  {
+    "nom": "Nawal EL Hamdouni",
+    "intitule": "Technique Hybride EMD/SAS pour le tatouage Audio : Une Approche Potentielle pour Augmenter le Débit de Transmission",
+    "annee": 2012
+  },
+  {
+    "nom": "Reda JOURANI",
+    "intitule": "Reconnaissance automatique du locuteur par des GMM à grande marge",
+    "annee": 2012
+  },
+  {
+    "nom": "Hind ANOUAL",
+    "intitule": "Détection et Localisation de texte dans les images de scènes naturelles : Application à la détection des plaques d'immatriculation marocaines",
+    "annee": 2012
+  },
+  {
+    "nom": "Hajar BOUIROUGA",
+    "intitule": "Reconnaissance des scènes vidéo pour adultes",
+    "annee": 2012
+  },
+  {
+    "nom": "Lahoucine BALLIHI",
+    "intitule": "Biométrie faciale 3D par apprentissage des caractéristiques géométriques : Application à la reconnaissance des visages et à la classification du genre",
+    "annee": 2012
+  },
+  {
+    "nom": "Ibrahim GUELZIM",
+    "intitule": "Contributions aux traitements d'images perspectives et omnidirectionnelles par des outils statistiques",
+    "annee": 2012
+  },
+  {
+    "nom": "Ali El Akadi",
+    "intitule": "Contribution à la sélection de variables pertinentes en classification supervisée : Application à la sélection des gènes pour les puces à ADN et des caractéristiques faciales",
+    "annee": 2012
+  },
+  {
+    "nom": "Miryem HRARTI",
+    "intitule": "Optimisation du contrôle de débit de H.264/AVC basée sur une nouvelle modélisation Débit-Quantification et une allocation sélective de débits et des caractéristiques faciales",
+    "annee": 2012
+  },
+  {
+    "nom": "Miryem HRARTI",
+    "intitule": "Optimisation du contrôle de débit de H.264/AVC basée sur une nouvelle modélisation Débit-Quantification et une allocation sélective de débits",
+    "annee": 2011
+  },
+  {
+    "nom": "Abdenaceur BOUDLAL",
+    "intitule": "Modélisation de séquences vidéo par mélange de lois Gaussiennes : Application à l'estimation du mouvement",
+    "annee": 2011
+  },
+  {
+    "nom": "Ali RADI",
+    "intitule": "Conception d'un Nouveau Système de Prévention d'intrusion basé sur une Politique de Sécurité à trois Niveaux",
+    "annee": 2011
+  },
+  {
+    "nom": "Ali KARTIT",
+    "intitule": "Une nouvelle approche de détection d'intrusions et étude des problèmes liés au déploiement de politiques de sécurité dans les réseaux informatiques",
+    "annee": 2011
+  },
+  {
+    "nom": "Hamid BENNIS",
+    "intitule": "Paper microstructure characterization by image analysis",
+    "annee": 2011
+  },
+  {
+    "nom": "Amir MOILIM",
+    "intitule": "Techniques Avancées du Traitement de Signaux Multi-composantes : Application à la Séparation des Ondes Sismiques",
+    "annee": 2011
+  },
+  {
+    "nom": "Hassan EL MAIA",
+    "intitule": "Apport de la combinaison couleur texture en classification des images de télédétection : application à la cartographie forestière",
+    "annee": 2011
+  },
+  {
+    "nom": "Samira MABTOUL",
+    "intitule": "Tatouage d'images par ondelettes complexes : application à la protection des droits d'auteur et à l'intégrité des images",
+    "annee": 2010
+  },
+  {
+    "nom": "Amina RADGUI",
+    "intitule": "Contributions à l'estimation du flot optique en vision omnidirectionnelle",
+    "annee": 2010
+  },
+  {
+    "nom": "Mohammed Nabil SAIDI",
+    "intitule": "Reconnaissance de formes et d'objets en environnement incertain : Application à la reconnaissance de cibles radar",
+    "annee": 2010
+  },
+  {
+    "nom": "Khalid AIT SGHIR",
+    "intitule": "Contribution de la cyclostationnarité et de l'identification aveugle au diagnostic des outils de coupe",
+    "annee": 2010
+  },
+  {
+    "nom": "Brahim ELBHIRI",
+    "intitule": "Distributed Average Consensus Algorithm and hierarchical clustering protocols for Wireless Sensor Networks",
+    "annee": 2010
+  },
+  {
+    "nom": "Hamadi OULD ABDELLAHI",
+    "intitule": "Egalisation des canaux Radio-mobiles et Etude de la technique d'accès multiple IDMA (Interleave Division Multiple Access)",
+    "annee": 2010
+  },
+  {
+    "nom": "Lamia BENAMEUR",
+    "intitule": "Contribution à l'optimisation complexe par des techniques de Swarm Intelligence",
+    "annee": 2010
+  },
+  {
+    "nom": "ELhoussaine ZIYATI",
+    "intitule": "Optimisation de requêtes OLAP en Entrepôt de données : Approche basée sur la fragmentation génétique",
+    "annee": 2010
+  },
+  {
+    "nom": "Ouadoudi ZYTOUNE",
+    "intitule": "Energy Efficiency Routing Protocols for Wireless Sensor networks: Contribution to lifetime maximisation",
+    "annee": 2010
+  },
+  {
+    "nom": "Khalid MINAOUI",
+    "intitule": "Séquences binaires et traitements du signal pour les radars",
+    "annee": 2010
+  },
+  {
+    "nom": "Mounir AIT KERROUM",
+    "intitule": "Apport de la théorie de l'information dans la sélection des paramètres de texture pour la classification thématique des images de télédétection",
+    "annee": 2010
+  },
+  {
+    "nom": "Abdeslam JAKIMI",
+    "intitule": "Apport de la théorie de l'information dans la sélection des paramètres de texture pour la classification thématique des images de télédétection",
+    "annee": 2009
+  },
+  {
+    "nom": "Majdoulayne HANIFI",
+    "intitule": "Extraction de caractéristiques de texture pour la classification d'images Satellites",
+    "annee": 2009
+  },
+  {
+    "nom": "Rajaa SAIDI",
+    "intitule": "Conception et usage des composants métier processus pour les systèmes d'information",
+    "annee": 2009
+  },
+  {
+    "nom": "Imane DAOUDI",
+    "intitule": "Recherche par similarité dans les bases de données multimédia : application à la recherche par le contenu d'images",
+    "annee": 2009
+  },
+  {
+    "nom": "Soufiane IDBRAIM",
+    "intitule": "Méthodes d'extraction de l'information spatiale et de classification en imagerie de télédétection",
+    "annee": 2009
+  },
+  {
+    "nom": "Mohamed EL AROUSSI",
+    "intitule": "Information Fusion towards a Robust Face Recognition System",
+    "annee": 2009
+  },
+  {
+    "nom": "Asmaa AMEHRAYE",
+    "intitule": "Débruitage de la parole et ses applications",
+    "annee": 2009
+  },
+  {
+    "nom": "Aouatif AMINE",
+    "intitule": "Feature Extraction and Selection for Dimensionality Reduction in Pattern Recognition and Their Application in Face Recognition",
+    "annee": 2009
+  },
+  {
+    "nom": "Sanaa GHOUZALI",
+    "intitule": "Generalized Gaussian Model for block-DCT based Skin Detection",
+    "annee": 2009
+  },
+  {
+    "nom": "Abdelilah JILBAB",
+    "intitule": "Filtrage de sites illicites sur Internet : Contribution à la Reconnaissance du Type d'Images basée sur le Principe du Maximum d'Entropie",
+    "annee": 2009
+  },
+  {
+    "nom": "Nourddine ENNEYA",
+    "intitule": "La Mobilité au Service du Routage Ad hoc",
+    "annee": 2009
+  },
+  {
+    "nom": "Moulay Ahmed FAQIHI",
+    "intitule": "Etude et Optimisation des Techniques MC-CDMA pour les Futures Générations de Transmission Radio Mobiles",
+    "annee": 2009
+  },
+  {
+    "nom": "Atman JBARI",
+    "intitule": "Séparation Aveugle de Sources par contrastes à références et analyse du contenu temps-échelle",
+    "annee": 2009
+  },
+  {
+    "nom": "Sanaa EL FKIHI",
+    "intitule": "Modèles probabilistes indexés par les arbres : Application à la détection de la peau dans les images couleur",
+    "annee": 2008
+  },
+  {
+    "nom": "Mounia MIKRAM",
+    "intitule": "Suivi d'objets dans une séquence d'images par modèle d'apparence : conception et évaluation",
+    "annee": 2008
+  },
+  {
+    "nom": "Tariq ZAHRATAHDI",
+    "intitule": "Algorithmes pour la qualité de service dans les réseaux IP",
+    "annee": 2008
+  },
+  {
+    "nom": "Najlae IDRISSI",
+    "intitule": "La navigation dans les bases d'images : prise en compte des attributs de texture",
+    "annee": 2008
+  },
+  {
+    "nom": "Siham BOULAKNADEL",
+    "intitule": "TAL et RI en langue arabe dans un domaine de spécialité : apport des connaissances morphologiques et syntaxiques pour l'indexation",
+    "annee": 2008
+  },
+  {
+    "nom": "Manal TAOUFIKI",
+    "intitule": "Contrastes à référence pour la séparation de sources Gaussiennes et non Gaussiennes",
+    "annee": 2008
+  },
+  {
+    "nom": "Mohamed OULD DJIBRIL",
+    "intitule": "Contributions au Problème de Recherche et Indexation des Arabesques",
+    "annee": 2008
+  },
+  {
+    "nom": "Khalid SABRI",
+    "intitule": "Apport de l'hypothèse de cyclostationnarité dans le cadre de séparation de mélanges convolutifs : Application aux signaux mécaniques et biomécaniques",
+    "annee": 2008
+  },
+  {
+    "nom": "Hicham GHENNIOUI",
+    "intitule": "Séparation aveugle de mélanges linéaires convolutifs de sources Corrélées",
+    "annee": 2008
+  },
+  {
+    "nom": "Jamal Eddine ROUGUI",
+    "intitule": "Indexation de documents audio : Cas des grands volumes de données",
+    "annee": 2008
+  },
+  {
+    "nom": "Leila ESSANNOUNI",
+    "intitule": "Mise en correspondance d'image et suivi de visages",
+    "annee": 2008
+  },
+  {
+    "nom": "Moulay Youssef HADI",
+    "intitule": "OLVISu : Un système d'indexation et de génération des résumés vidéo online",
+    "annee": 2008
+  },
+  {
+    "nom": "Fadoua ATAA ALLAH",
+    "intitule": "Information Retrieval: Applications to English and Arabic Documents",
+    "annee": 2008
+  },
+  {
+    "nom": "Brahim BOUDA",
+    "intitule": "Contribution au Développement d'Algorithmes pour la Détection des Primitives Visuelles Points et Contours dans l'Image : Application à l'Estimation des Paramètres du Mouvement",
+    "annee": 2008
+  },
+  {
+    "nom": "Hicham LAANAYA",
+    "intitule": "Classification en Environnement Incertain : Application à la Caractérisation de Sédiments",
+    "annee": 2007
+  },
+  {
+    "nom": "Youssef FAKHRI",
+    "intitule": "Assignation de Ressources Radio Mobiles pour un Système Wireless OFDM : Contribution Basée sur la Théorie de l'Information",
+    "annee": 2007
+  },
+  {
+    "nom": "Fedwa ESSANNOUNI",
+    "intitule": "Estimation de mouvement robuste et de faible complexité dans les séquences vidéo",
+    "annee": 2007
+  },
+  {
+    "nom": "Rachid SAADANE",
+    "intitule": "Caractérisation et modélisation d'un canal Ultra Large Bande 'Indoor' basée sur la théorie de l'information",
+    "annee": 2007
+  }
+<<<<<<< HEAD
+]
+=======
+]
+>>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa

@@ -1,0 +1,45 @@
+{
+    "compilerOptions": {
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "esnext"
+      ],
+      "allowJs": true,
+      "checkJs": false, // Skip type checking for JavaScript files
+      "skipLibCheck": true,
+      "strict": false,
+      "noEmit": true,
+      "incremental": true,
+      "module": "esnext",
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "jsx": "preserve",
+      "paths": {
+        "@/*": ["./src/*"]
+      },
+      "plugins": [
+        {
+          "name": "next"
+        }
+      ]
+    },
+    "include": [
+      "next-env.d.ts",
+      ".next/types/**/*.ts",
+      "**/*.ts",
+      "**/*.tsx",
+      "src/app/quizzes/page.jsx",
+      "src/app/createAccount/page.jsx"
+    ],
+    "exclude": [
+  "node_modules",
+  "**/*.js",         // Exclude all JavaScript files
+  "next.config.js",
+  "route.js",
+  ".next"            // Exclude the .next directory as well
+]
+
+  }

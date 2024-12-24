@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "Axes de recherche": "Intelligence artificielle et ses applications"
+    },
+    {
+      "id": 2,
+      "Axes de recherche": "IoT, cloud computing et sécurité"
+    },
+    {
+      "id": 3,
+      "Axes de recherche": "Transports intelligents et smart cities"
+    },
+    {
+      "id": 4,
+      "Axes de recherche": "Indexation, Recherche d’informations et navigation dans des bases de données multimédia"
+    },
+    {
+      "id": 5,
+      "Axes de recherche": "Sécurité des contenus numériques multimédias : tatouage d'image et tatouage vidéo, Cryptographie"
+    },
+    {
+      "id": 6,
+      "Axes de recherche": "Systèmes biométriques : Détection, Reconnaissance et Suivi de visages en imagerie 2D et 3D"
+    },
+    {
+      "id": 7,
+      "Axes de recherche": "Traitement et reconstruction d’objets 3D"
+    },
+    {
+      "id": 8,
+      "Axes de recherche": "Reconnaissance de caractères"
+    },
+    {
+      "id": 9,
+      "Axes de recherche": "Classification des images de télédétection"
+    },
+    {
+      "id": 10,
+      "Axes de recherche": "Transmission de données multimédia sur les réseaux mobiles et sans fils"
+    },
+    {
+      "id": 11,
+      "Axes de recherche": "Extraction de connaissances"
+    },
+    {
+      "id": 12,
+      "Axes de recherche": "Fouille de données"
+    },
+    {
+      "id": 13,
+      "Axes de recherche": "Entrepôt de données et analyse multidimensionnelle"
+    },
+    {
+      "id": 14,
+      "Axes de recherche": "Séparation aveugle de sources et applications"
+    },
+    {
+      "id": 15,
+      "Axes de recherche": "Débruitage de la parole et ses applications"
+    },
+    {
+      "id": 16,
+      "Axes de recherche": "Qualité de Services dans les réseaux sans fils"
+    },
+    {
+      "id": 17,
+      "Axes de recherche": "Codage et compression robustes vis à vis du canal"
+    },
+    {
+      "id": 18,
+      "Axes de recherche": "Caractérisation, modélisation (ULB) et Égalisation (Turbo, aveugle) de canaux de transmission"
+    },
+    {
+      "id": 19,
+      "Axes de recherche": "Systèmes embarqués temps réels"
+    },
+    {
+      "id": 20,
+      "Axes de recherche": "Intégration matérielle sur DSP, SOC, NOC"
+    },
+    {
+      "id": 21,
+      "Axes de recherche": "Qualité des images 2D et objets 3D"
+    },
+    {
+      "id": 22,
+      "Axes de recherche": "Big Data"
+    },
+    {
+      "id": 23,
+      "Axes de recherche": "Théorie de graphe"
+    }
+  ]

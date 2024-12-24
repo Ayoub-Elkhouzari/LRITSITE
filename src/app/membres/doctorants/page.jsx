@@ -147,11 +147,9 @@ import { PiStudentBold } from "react-icons/pi";
 const ThesesCompleted = () => {
   return (
     <Card className="w-full overflow-y-auto custom-scrollbar">
-      <CardHeader className="flex bg-membres-header justify-center items-center gap-2 text-3xl font-bold  mx-4 mt-2 border-primary border-b-4">
-        {/* <div className="flex justify-center items-center rounded-md gap-2 bg-[#e2e1e1] px-96 py-32 w-full h-full"> */}
-          <PiStudentBold className="h-11 w-11 text-white" />
-          <div className="text-white">Thèses soutenues</div>
-        {/* </div> */}
+      <CardHeader className="flex justify-center items-center gap-2 text-3xl font-bold bg-membre-header mx-0 my-0 mb-6">
+        <PiStudentBold className="h-11 w-11 text-white" />
+        <div className="text-white">DOCTORANTS</div>
       </CardHeader>
       <CardContent className=" p-4 w-full">
         <div className="flex justify-center gap-3 mb-3">
@@ -1061,6 +1059,14 @@ const ThesesCompleted = () => {
               <Link href="#" className="text-2xl font-bold hover:text-primary">
                 ZRIMEK ZAKARIAE
               </Link>
+            </div>
+          </Card>
+          <Card className="flex border-transparent justify-start items-center gap-10 w-full h-24 p-4 rounded">
+            <div>
+              <Link
+                href="#"
+                className="text-2xl font-bold hover:text-primary"
+              ></Link>
             </div>
           </Card>
         </div>

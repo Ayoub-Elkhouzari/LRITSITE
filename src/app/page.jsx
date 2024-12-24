@@ -10,7 +10,6 @@ import { MdComputer, MdOutlineSubtitles } from "react-icons/md";
 import { GiTeacher } from "react-icons/gi";
 import { PiStudent } from "react-icons/pi";
 import MotDirecteur from "../components/MotDirecteur";
-<<<<<<< HEAD
 import ReactPlayer from "react-player";
 import actualite from "@/assets/actualite.jpg";
 import { FaNewspaper } from "react-icons/fa";
@@ -21,12 +20,6 @@ const Home = () => {
 
   useEffect(() => {
     document.title = "LRIT";
-=======
-
-const Home = () => {
-  useEffect(() => {
-    document.title = "LRIT"; 
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
   }, []);
 
   return (
@@ -54,7 +47,6 @@ const Home = () => {
         </CardHeader>
       </Card>
 
-<<<<<<< HEAD
       <Card className="w-full overflow-y-auto custom-scrollbar p-4 m-4">
         <CardContent className="flex justify-center items-center gap-10">
           <div className="grid">
@@ -77,27 +69,15 @@ const Home = () => {
           MOT DU DIRECTEUR
         </h4>
         <MotDirecteur />
-=======
-      {/* Mot du Directeur */}
-      <section className="text-center">
-        <h4 className="text-center py-8 font-bold text-3xl text-blue-950">MOT DU DIRECTEUR</h4>
-        <MotDirecteur/>
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
       </section>
 
       {/* LRIT en chiffres */}
       <section className="text-center ">
-<<<<<<< HEAD
         <h4 className="text-center py-8 font-bold text-3xl text-blue-950">
           LRIT EN CHIFFRES
         </h4>
       </section>
       <section className="pb-2 bg-LRIT-header">
-=======
-        <h4 className="text-center py-8 font-bold text-3xl text-blue-950">LRIT EN CHIFFRES</h4>
-      </section>
-      <section className="pb-2 bg-LRIT-header"> 
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
         <CardContent className="flex justify-center gap-10 mt-6 mx-5 py-20">
           <StatCard icon={PiStudent} label="168 Étudiants" />
           <StatCard icon={GiTeacher} label="140 Enseignants" />
@@ -108,19 +88,12 @@ const Home = () => {
 
       {/* Contact Section */}
       <h4 className="text-center py-8 font-bold text-3xl text-blue-950">
-<<<<<<< HEAD
         CONTACTEZ-NOUS
       </h4>
       <section
         id="contact-form"
         className="py-8 bg-blue-950 opacity-90 w-1/2 flex items-center justify-center mx-auto rounded-lg mb-8"
       >
-=======
-          CONTACTEZ-NOUS
-      </h4>
-      <section id="contact-form" className="py-8 bg-blue-950 opacity-90 w-1/2 flex items-center justify-center mx-auto rounded-lg mb-8">
-        
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
         <CardContent className="flex justify-center items-center mt-4">
           <div className="w-96 bg-transparent p-4">
             <Input type="text" placeholder="Entrez votre nom complet" />
@@ -161,8 +134,4 @@ const StatCard = ({ icon: Icon, label }) => (
   </Card>
 );
 
-<<<<<<< HEAD
 export default Home;
-=======
-export default Home;
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa

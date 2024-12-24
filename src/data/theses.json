@@ -1,78 +1,5 @@
 [
   {
-<<<<<<< HEAD
-=======
-    "nom": "Mohamed Nabil SAIDI",
-    "intitule": "Classification & Fusion de l'Information : Application au traitement d'image et aux systèmes biométriques",
-    "annee": 2015
-  },
-  {
-    "nom": "Khalid MINAOUI",
-    "intitule": "Contributions aux traitements du signal et d'image : Méthodes algébriques multilinéaires pour la séparation aveugle de sources, traitement du signal Radar, segmentation de l'upwelling en utilisant les images TSM",
-    "annee": 2014
-  },
-  {
-    "nom": "Ouadoudi ZYTOUNE",
-    "intitule": "Contribution à la qualité de service dans les réseaux sans fil",
-    "annee": 2014
-  },
-  {
-    "nom": "Rajaa SAIDI",
-    "intitule": "Contribution à l'ingénierie des processus métiers dans les systèmes d'information",
-    "annee": 2014
-  },
-  {
-    "nom": "Rachid SAADANE",
-    "intitule": "Canaux large bande : Application aux réseaux de capteurs sans fil et réseau mobile",
-    "annee": 2014
-  },
-  {
-    "nom": "Sanaa EL FKIHI",
-    "intitule": "Traitement des Données Multimédias et Amélioration des Performances dans les Réseaux de Capteurs sans Fils",
-    "annee": 2014
-  },
-  {
-    "nom": "Mohamed EL HAZITI",
-    "intitule": "Protection des données : du watermarking aux systèmes biométriques",
-    "annee": 2014
-  },
-  {
-    "nom": "Mohammed EL HASSOUNI",
-    "intitule": "Modélisation statistique des images et des objets 3D : Contributions en reconnaissance, qualité et débruitage",
-    "annee": 2012
-  },
-  {
-    "nom": "Abdeljalil ELOUARDIGHI",
-    "intitule": "Sélection de variables pertinentes dans un processus d'extraction de connaissance à partir grande base de données",
-    "annee": 2011
-  },
-  {
-    "nom": "Abderrahim EL QADI",
-    "intitule": "Recherche d'Information, et Optimisation des requêtes dans les entrepôts de données",
-    "annee": 2010
-  },
-  {
-    "nom": "Benayad NSIRI",
-    "intitule": "Contributions au développement des algorithmes avancés pour les systèmes de télécommunication",
-    "annee": 2010
-  },
-  {
-    "nom": "Mohammed RZIZA",
-    "intitule": "Méthodes de classification : Application à la détection, reconnaissance du visage et à l'indexation de document audio",
-    "annee": 2010
-  },
-  {
-    "nom": "Elhassane IBN-ELHAJ",
-    "intitule": "Traitement et analyse de la vidéo : restauration, reconnaissance de visage et protection par",
-    "annee": 2006
-  },
-  {
-    "nom": "Ahmed KADA",
-    "intitule": "Contribution aux techniques et algorithmes évolutifs de traitement de l'information et de communication : application en télécommunications, sécurité et réseaux",
-    "annee": 2007
-  },
-  {
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
     "nom": "BENABDLLAH Fatima-zahra",
     "intitule": "Machine and Deep learning-based Approaches for autism Spectrum Discover Identification",
     "annee": 2023
@@ -907,8 +834,4 @@
     "intitule": "Caractérisation et modélisation d'un canal Ultra Large Bande 'Indoor' basée sur la théorie de l'information",
     "annee": 2007
   }
-<<<<<<< HEAD
 ]
-=======
-]
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa

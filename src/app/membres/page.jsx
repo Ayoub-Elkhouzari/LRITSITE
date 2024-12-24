@@ -1,4 +1,3 @@
-import Sidebar from '@/components/SideNavBar'
 import React from 'react'
 
 const Formations = () => {

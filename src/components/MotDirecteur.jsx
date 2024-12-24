@@ -1,18 +1,11 @@
 "use client";
-<<<<<<< HEAD
 import { History } from "lucide-react";
 import React from "react";
-=======
-import React from "react";
-import Image from "next/image";
-import profil from "@/assets/logo/profil.png"; 
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
 
 const MotDirecteur = () => {
   return (
     <div className="flex items-center justify-center w-full h-full py-2">
       {/* Container */}
-<<<<<<< HEAD
       <div className="flex items-center bg-blue-950 opacity-90 rounded-lg shadow-lg overflow-hidden w-full p-4 m-4">
         <div className="w-full p-4">
           <p className="text-white leading-relaxed text-justify text-xl">
@@ -119,35 +112,6 @@ const MotDirecteur = () => {
 
           <div className="mt-6">
             <h3 className="text-white font-bold text-lg">Pr. Khalid Minaoui</h3>
-=======
-      <div className="flex items-center bg-blue-950 opacity-90 rounded-lg shadow-lg overflow-hidden w-full max-w-4xl">
-        {/* Left Section - Avatar */}
-        <div className="relative w-1/3">
-          <div className="w-56 h-56 rounded-full overflow-hidden mx-auto my-8">
-            <Image
-              src={profil} // Remplacez avec votre image
-              alt="Pr. Khalid Minaoui"
-              layout="fill"
-              className="object-cover"
-            />
-          </div>
-        </div>
-
-        {/* Separator Line */}
-        <div className="h-56 border-l-2 border-gray-300 mx-4"></div>
-
-        {/* Right Section - Text */}
-        <div className="w-2/3 p-4">
-          <p className="text-white leading-relaxed text-justify">
-                Le laboratoire LRIT s'engage dans des projets de recherche
-                innovants et multidisciplinaires, visant à améliorer les
-                technologies de l'information et les télécommunications.
-          </p>
-          <div className="mt-6">
-            <h3 className="text-white font-bold text-lg">
-              Pr. Khalid Minaoui
-            </h3>
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
             <p className="text-white">Directeur de LRIT</p>
           </div>
         </div>

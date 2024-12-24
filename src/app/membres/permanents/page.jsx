@@ -4,11 +4,7 @@ import React from "react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { FaUser, FaUsers } from "react-icons/fa6";
 import Link from "next/link";
-<<<<<<< HEAD
 import members from "@/data/membres_permanents.json";
-=======
-import members from "@/data/membres_permanents.json"; 
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
 
 const MembresPermanents = () => {
   return (
@@ -27,11 +23,7 @@ const MembresPermanents = () => {
             <FaUser className="h-8 w-8" />
             <div>
               <Link
-<<<<<<< HEAD
                 href=""
-=======
-                href={member.Scopus}
->>>>>>> 539ce03bd883e6b2cf343da50fff2d676f5687aa
                 className="uppercase text-xl font-bold hover:text-blue-900"
               >
                 {member.Nom}
